@@ -321,6 +321,7 @@ A curated list of awesome marketing tools, books, blogs, podcasts, and resources
   - [Intercom](https://www.intercom.com) - Conversational relationship platform that enables businesses to communicate with customers via messaging, bots, and automation.
   - [Drift](https://www.drift.com) - Conversational marketing platform that combines chat, email, and automation to improve customer engagement.
   - [Help Scout](https://www.helpscout.com) - Customer service platform designed to help small businesses manage email, live chat, and knowledge base interactions.
+  - [NeetoDesk](https://neeto.com/neetodesk) - A price-competitive customer service software to help companies provide support using email.
 
 
 ## Advertising and Media Buying
