@@ -217,6 +217,12 @@ A curated list of awesome marketing tools, books, blogs, podcasts, and resources
   - [Postcards by Designmodo](https://designmodo.com/postcards/) - Easy-to-use email design tool for creating responsive email templates.
   - [Chamaileon](https://chamaileon.io) - Collaborative email design platform for creating custom email templates.
 
+### Email Deliverability
+
+  - [Heybounce](https://www.heybounce.io) - Email verification service that checks if an email exists and detects disposable emails to reduce bounce rates.
+  - [GlockApps](https://glockapps.com/) - Tool to diagnose email deliverability problems.
+  - [Mailtrap](https://mailtrap.io/) - Platform used to test deliverability before sending and control results in one place.
+
 ## Marketing Automation
 
 ### Lead Nurturing
