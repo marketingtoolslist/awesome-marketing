@@ -198,6 +198,7 @@ A curated list of awesome marketing tools, books, blogs, podcasts, and resources
   - [HubSpot](https://www.hubspot.com) - All-in-one CRM platform with robust email marketing and automation tools.
   - [Klaviyo](https://www.klaviyo.com) - Email and SMS marketing automation platform tailored for eCommerce businesses.
   - [SendinBlue](https://www.sendinblue.com) - Email marketing and automation software that includes SMS marketing and chat features.
+  - [Touchlead](https://touchlead.app) - Marketing software with workflow automation, supporting email campaigns, social media scheduling and more.
   - [Autopilot](https://autopilothq.com) - Visual marketing automation software for creating personalized customer journeys.
   - [Drip](https://www.drip.com) - ECRM platform designed for building personalized email campaigns to engage customers.
 
