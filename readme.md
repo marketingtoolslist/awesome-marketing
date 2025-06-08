@@ -2,7 +2,9 @@
 
 A curated list of awesome marketing tools, books, blogs, podcasts, and resources for marketers, business professionals, and anyone interested in the art and science of marketing. Whether you're focused on digital marketing, content marketing, or searching for specific insights, this list aims to provide valuable resources across a wide spectrum of marketing disciplines.
 
-by **[Marketing Tools List](https://marketingtoolslist.com)**
+*This repo is sponsored by* **[Marketinguys](https://marketinguys.com)**: Marketinguys helps you find a marketer for your projects.
+
+This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
 ## Table of Contents
 
