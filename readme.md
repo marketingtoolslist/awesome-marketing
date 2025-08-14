@@ -206,6 +206,8 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [ActiveCampaign](https://www.activecampaign.com) - Review - Customer experience automation platform that helps businesses grow by automating various marketing processes.
   - [GetResponse](https://www.getresponse.com) - Review - Email marketing software with powerful automation features, landing pages, and webinars.
   - [AWeber](https://www.aweber.com) - Review - Email marketing platform offering autoresponders, landing pages, and email automation.
+  - [Django CRM](https://djangocrm.github.io/info) - [Review](https://djangocrm.github.io/info/features/overview) - Mailing CRM is an open-source platform for managing customer relationships, organizing sales activities, and sending targeted email campaigns.
+
 
 ### Email Automation
 
@@ -327,6 +329,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Zoho CRM](https://www.zoho.com/crm/) - Review - Comprehensive CRM software with a wide array of features for sales automation, analytics, and customer support.
   - [Pipedrive](https://www.pipedrive.com) - Review - Sales-focused CRM tool designed to help sales teams manage leads and deals effectively.
   - [Microsoft Dynamics 365](https://dynamics.microsoft.com) - Review - CRM and ERP applications that integrate data, business logic, and processes.
+  - [Django CRM](https://djangocrm.github.io/info) - [Review](https://djangocrm.github.io/info/features/overview) - CRM Software with Tasks management, Email marketing and many more, created for individual use by businesses of any size or freelancers and is designed to provide easy customization and quick development.
 
 ### Email CRM Integration
 
