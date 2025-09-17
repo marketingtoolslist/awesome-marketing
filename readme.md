@@ -374,7 +374,8 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Nativo](https://www.nativo.com) - Review - Platform for creating, distributing, and optimizing native ads across multiple channels.
   - [TripleLift](https://www.triplelift.com) - Review - Native advertising platform that seamlessly integrates ads into content environments.
   - [AdYouLike](https://www.adyoulike.com) - Review - Native advertising solution that delivers in-feed ads that match the look and feel of editorial content.
-
+  - [PRWeb.in](https://www.prweb.in) - Review - Affordable press release distribution service that helps brands connect with journalists, media outlets, and influencers for wider visibility, brand awareness, and engagement.
+    
 ## Market Research and Competitor Analysis
 
 ### Market Research Tools
