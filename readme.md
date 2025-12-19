@@ -296,7 +296,6 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 ## Analytics and Reporting
 
 ### Web Analytics
-
   - [Google Analytics](https://analytics.google.com) - Review - Comprehensive web analytics service that tracks and reports website traffic and user behavior.
   - [Adobe Analytics](https://www.adobe.com/analytics/adobe-analytics.html) - Review - Advanced analytics solution for data-driven insights across all marketing channels.
   - [Hotjar](https://www.hotjar.com) - Review - Behavior analytics and user feedback service that helps you understand how users interact with your site.
@@ -441,6 +440,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 ## Online Resources and Courses
 
 - **[Awesome AI Marketing](https://github.com/sarahdanesh/awesome-ai-marketing)** - A curated list of AI Tools for Marketing
+- **[Calcmatic](https://calcmatic.app)** - Review - Free online calculators for ecommerce profit, payment processing fees, shipping costs, and personal finance.
 - **[SEO Roadmap](https://github.com/seoroadmap/seo-roadmap)** - A Simple roadmap for your SEO journey.
 - **Coursera Marketing Courses** - Offers courses on digital marketing, social media marketing, and more from top universities. [Visit Coursera](https://www.coursera.org/)
 - **Google Digital Garage** - Free online courses from Google on digital marketing, data and tech. [Visit Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage)
