@@ -257,6 +257,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Automate.io](https://automate.io) - Review - Simple tool for automating repetitive tasks and connecting apps.
   - [CoSchedule](https://coschedule.com) - Review - Marketing calendar and project management software for organizing marketing activities.
   - [HubSpot](https://www.hubspot.com) - Review - CRM platform with robust marketing workflow automation capabilities.
+  - [Taskade](https://taskade.com) - Review - AI-powered workspace for marketing teams with custom AI agents, content generation, workflow automation, and project management.
 
 ### Customer Journey Mapping
 
