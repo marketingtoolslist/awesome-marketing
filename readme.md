@@ -129,6 +129,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Ahrefs](https://ahrefs.com/analytics) - [Review](https://marketingtoolslist.com/ahrefs) - Analytics toolset that provides insights into website performance, traffic, and keyword rankings.
   - [SpyFu](https://www.spyfu.com) - [Review](https://marketingtoolslist.com/spyfu) - SEO and PPC competitor research tool for discovering every keyword a competitor has bought on Google Ads.
   - [SimilarWeb](https://www.similarweb.com) - [Review](https://marketingtoolslist.com/similarweb) - Web analytics platform providing insights on website traffic, ranking, and more.
+  - [GEOScore](https://geoscoreai.com) - Review - AI search visibility scanner that checks how your website performs in AI search engines (ChatGPT, Perplexity, Gemini) with 11 technical checks.
   - [OnRanko](https://onranko.com/) - [Review](https://onranko.com/premium?agent=advanced-seo-strategy-generator) Harness AI-driven agents to supercharge your SEO, boost rankings, and maximize visibility.
 
 
