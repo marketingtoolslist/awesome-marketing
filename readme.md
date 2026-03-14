@@ -442,6 +442,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
 - **[Awesome AI Marketing](https://github.com/sarahdanesh/awesome-ai-marketing)** - A curated list of AI Tools for Marketing
 - **[SEO Roadmap](https://github.com/seoroadmap/seo-roadmap)** - A Simple roadmap for your SEO journey.
+- **[Syxo](https://www.syxoai.com)** - AI marketing systems education. Digital products and 30+ free guides teaching solopreneurs to build complete AI marketing workflows.
 - **Coursera Marketing Courses** - Offers courses on digital marketing, social media marketing, and more from top universities. [Visit Coursera](https://www.coursera.org/)
 - **Google Digital Garage** - Free online courses from Google on digital marketing, data and tech. [Visit Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage)
 
