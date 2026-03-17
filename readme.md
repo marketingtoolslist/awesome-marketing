@@ -58,6 +58,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Crayon](https://www.crayon.co) - [Review](https://marketingtoolslist.com/crayon) - Competitive intelligence platform for tracking competitors and market trends.
   - [SimilarWeb](https://www.similarweb.com) - [Review](https://marketingtoolslist.com/similarweb) - Provides website analytics, traffic insights, and competitive analysis.
   - [Owler](https://www.owler.com) - [Review](https://marketingtoolslist.com/owler) - Business insights platform that provides competitor information and company profiles.
+  - [StackData](https://greg-rg-git.github.io/stackdata-store/) - Curated pricing datasets for SaaS and B2B software categories including CRM, email marketing, PM tools, DevTools, and accounting platforms — structured CSV/JSON files for benchmarking and competitive research.
 
 ### Marketing Mix Modeling
 
