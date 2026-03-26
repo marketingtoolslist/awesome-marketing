@@ -201,6 +201,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
 ### Email Campaigns
 
+  - [B2B Outbound Sniper](https://github.com/getlemnos32/b2b-outbound-sniper) - Open-source autonomous B2B outbound engine. Scrapes job boards for hiring signals, verifies emails, personalizes with 6 LLMs, sends via SMTP. 10/10 deliverability. Battle-tested in production: 52.9% open rate, $0.03/lead.
   - [Mailchimp](https://mailchimp.com) - Review - Marketing automation platform and email marketing service that helps you manage and communicate with your clients and customers.
   - [ConvertKit](https://convertkit.com) - Review - Email marketing software designed for creators, bloggers, and online businesses with powerful automation features.
   - [ActiveCampaign](https://www.activecampaign.com) - Review - Customer experience automation platform that helps businesses grow by automating various marketing processes.
