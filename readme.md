@@ -58,6 +58,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Crayon](https://www.crayon.co) - [Review](https://marketingtoolslist.com/crayon) - Competitive intelligence platform for tracking competitors and market trends.
   - [SimilarWeb](https://www.similarweb.com) - [Review](https://marketingtoolslist.com/similarweb) - Provides website analytics, traffic insights, and competitive analysis.
   - [Owler](https://www.owler.com) - [Review](https://marketingtoolslist.com/owler) - Business insights platform that provides competitor information and company profiles.
+  - [EnrichAnything](https://www.enrichanything.com) - Source-backed niche market and lead-list builder from public hiring, ecommerce, and GTM signals.
 
 ### Marketing Mix Modeling
 
@@ -444,4 +445,3 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 - **[SEO Roadmap](https://github.com/seoroadmap/seo-roadmap)** - A Simple roadmap for your SEO journey.
 - **Coursera Marketing Courses** - Offers courses on digital marketing, social media marketing, and more from top universities. [Visit Coursera](https://www.coursera.org/)
 - **Google Digital Garage** - Free online courses from Google on digital marketing, data and tech. [Visit Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage)
-
