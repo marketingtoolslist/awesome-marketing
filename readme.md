@@ -169,6 +169,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Piktochart](https://piktochart.com) - Review - Infographic maker and presentation tool to create visually appealing content.
   - [Adobe Spark](https://spark.adobe.com) - Review - Suite of design apps for creating social graphics, web pages, and videos.
   - [Tellers.AI](https://tellers.ai) - Review - Turn your scripts, articles and podcasts into videos based on your own footage.
+  - [Kitmul](https://kitmul.com) - Review - 100+ free AI-powered browser tools for content creation — image editing, background removal, PDF tools, QR codes, video tools, and more. No signup required.
 
 ### Content Management Systems (CMS)
 
