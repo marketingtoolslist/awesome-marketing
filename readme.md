@@ -441,6 +441,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 ## Online Resources and Courses
 
 - **[Awesome AI Marketing](https://github.com/sarahdanesh/awesome-ai-marketing)** - A curated list of AI Tools for Marketing
+- **[MarketCore Toolkit](https://toolkit-directory-1090035465538.us-central1.run.app)** - A curated directory of 275+ marketing-focused MCP servers and AI tools, with editorial reviews and MarketCore scores across SEO, content creation, email, social media, analytics, and CRM categories
 - **[SEO Roadmap](https://github.com/seoroadmap/seo-roadmap)** - A Simple roadmap for your SEO journey.
 - **Coursera Marketing Courses** - Offers courses on digital marketing, social media marketing, and more from top universities. [Visit Coursera](https://www.coursera.org/)
 - **Google Digital Garage** - Free online courses from Google on digital marketing, data and tech. [Visit Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage)
