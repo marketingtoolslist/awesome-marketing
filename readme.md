@@ -145,6 +145,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
 ### Social Media Advertising
 
+  - [AdDogs](https://www.addogs.ai) - Review - AI ad creative generator that clones winning ad designs and applies your brand identity in 10 seconds.
   - [Facebook Ads Manager](https://www.facebook.com/business/tools/ads-manager) - Review - Tool for creating, managing, and analyzing ads on Facebook and Instagram.
   - [Google Ads](https://ads.google.com) - Review - Online advertising platform for creating ads that appear on Google Search and other Google properties.
   - [AdEspresso](https://adespresso.com) - Review - Tool to create, manage, and optimize Facebook and Instagram ad campaigns.
