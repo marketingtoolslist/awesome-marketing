@@ -319,6 +319,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Klipfolio](https://www.klipfolio.com) - Review - Dashboard and reporting software that allows you to connect, visualize, and share your data.
   - [Supermetrics](https://supermetrics.com) - Review - Data integration tool that pulls data from various marketing platforms into spreadsheets, dashboards, and data warehouses.
   - [Power BI](https://powerbi.microsoft.com) - Review - Business analytics service by Microsoft that provides interactive visualizations and business intelligence capabilities.
+  - [calcfuel](https://calcfuel.com) - Free suite of 35+ marketing calculators (ROI, ROAS, CAC, CLV, CTR, and more) to measure marketing performance. No signup required.
 
 ## Customer Relationship Management (CRM)
 
@@ -444,4 +445,3 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 - **[SEO Roadmap](https://github.com/seoroadmap/seo-roadmap)** - A Simple roadmap for your SEO journey.
 - **Coursera Marketing Courses** - Offers courses on digital marketing, social media marketing, and more from top universities. [Visit Coursera](https://www.coursera.org/)
 - **Google Digital Garage** - Free online courses from Google on digital marketing, data and tech. [Visit Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage)
-
