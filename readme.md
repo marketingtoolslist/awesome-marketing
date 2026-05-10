@@ -249,6 +249,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [HubSpot](https://www.hubspot.com) - Review - Comprehensive CRM platform with powerful marketing automation features.
   - [ActiveCampaign](https://www.activecampaign.com) - Review - Marketing automation platform with integrated email marketing, CRM, and messaging tools.
   - [Infusionsoft](https://keap.com/infusionsoft) - Review - All-in-one sales and marketing automation software for small businesses.
+  - [SalesLabel](https://sales-label.com) - Review - White-label outbound sales infrastructure platform for B2B agencies, helping them launch reseller offers and nurture leads under their own brand.
 
 ### Marketing Workflow Automation
 
