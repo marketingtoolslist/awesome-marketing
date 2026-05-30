@@ -138,6 +138,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
   - [Hootsuite](https://hootsuite.com) - Review - Platform to manage social media profiles, schedule posts, and track engagement across multiple networks.
   - [Buffer](https://buffer.com) - Review - Social media management tool for scheduling posts and analyzing performance across multiple accounts.
+  - [InstaAuto](https://github.com/ayuuxh2/insta-p8) - Open-source, self-hosted Instagram DM, comment, story, and AI reply automation.
   - [Sprout Social](https://sproutsocial.com) - Review - Social media management solution with powerful analytics, engagement, and scheduling tools.
   - [Later](https://later.com) - Review - Visual content calendar for planning and scheduling Instagram, Facebook, Twitter, and Pinterest posts.
   - [SocialBee](https://socialbee.io) - Review - Social media management platform that allows for content scheduling, recycling, and curation.
