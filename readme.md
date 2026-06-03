@@ -444,4 +444,5 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 - **[SEO Roadmap](https://github.com/seoroadmap/seo-roadmap)** - A Simple roadmap for your SEO journey.
 - **Coursera Marketing Courses** - Offers courses on digital marketing, social media marketing, and more from top universities. [Visit Coursera](https://www.coursera.org/)
 - **Google Digital Garage** - Free online courses from Google on digital marketing, data and tech. [Visit Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage)
+- **[Marketing Manager Jobs](https://marketingmanagerjobs.com/)** - Curated job board for marketing manager-level roles, including remote, salary, role, and location-specific listings.
 
