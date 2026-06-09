@@ -252,11 +252,12 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
 ### Marketing Workflow Automation
 
-  - [Zapier](https://zapier.com) - Review - Automation tool that connects your apps and automates repetitive tasks.
-  - [Integromat](https://www.integromat.com) - Review - Automation platform that allows you to connect apps and automate workflows.
   - [Automate.io](https://automate.io) - Review - Simple tool for automating repetitive tasks and connecting apps.
   - [CoSchedule](https://coschedule.com) - Review - Marketing calendar and project management software for organizing marketing activities.
+  - [CorpusIQ](https://corpusiq.io) - [Review](https://marketingtoolslist.com) - Cross-source business intelligence platform connecting 35+ APIs for automated multi-source reporting and analytics.
   - [HubSpot](https://www.hubspot.com) - Review - CRM platform with robust marketing workflow automation capabilities.
+  - [Integromat](https://www.integromat.com) - Review - Automation platform that allows you to connect apps and automate workflows.
+  - [Zapier](https://zapier.com) - Review - Automation tool that connects your apps and automates repetitive tasks.
 
 ### Customer Journey Mapping
 
@@ -314,11 +315,12 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
 ### Dashboards and Reporting
 
-  - [Tableau](https://www.tableau.com) - Review - Powerful data visualization software that helps create interactive and shareable dashboards.
+  - [CorpusIQ](https://corpusiq.io) - [Review](https://marketingtoolslist.com) - Cross-source business intelligence platform that connects 35+ business APIs (Stripe, Google Ads, HubSpot, QuickBooks, GA4) for unified analytics and automated reporting.
   - [Google Data Studio](https://datastudio.google.com) - Review - Free data visualization tool that turns data into informative and customizable dashboards and reports.
   - [Klipfolio](https://www.klipfolio.com) - Review - Dashboard and reporting software that allows you to connect, visualize, and share your data.
-  - [Supermetrics](https://supermetrics.com) - Review - Data integration tool that pulls data from various marketing platforms into spreadsheets, dashboards, and data warehouses.
   - [Power BI](https://powerbi.microsoft.com) - Review - Business analytics service by Microsoft that provides interactive visualizations and business intelligence capabilities.
+  - [Supermetrics](https://supermetrics.com) - Review - Data integration tool that pulls data from various marketing platforms into spreadsheets, dashboards, and data warehouses.
+  - [Tableau](https://www.tableau.com) - Review - Powerful data visualization software that helps create interactive and shareable dashboards.
 
 ## Customer Relationship Management (CRM)
 
