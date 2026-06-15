@@ -124,6 +124,8 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
 ### SEO Analytics
 
+  - [TubePilot](https://creators.panshi.io) - YouTube-specific SEO & analytics copilot: an SEO scorecard built from your channel's real search terms, plus per-video reviews, retention deep-dives, topic ideas and AI thumbnail critique — all from your own channel data (read-only).
+
   - [Google Search Console](https://search.google.com/search-console) - [Review](https://marketingtoolslist.com/google-search-console) - Free tool by Google that helps monitor and maintain your site's presence in Google Search results.
   - [SEMrush](https://www.semrush.com/analytics/) - [Review](https://marketingtoolslist.com/semrush) - Comprehensive SEO analytics tool for tracking performance and analyzing competitors.
   - [Ahrefs](https://ahrefs.com/analytics) - [Review](https://marketingtoolslist.com/ahrefs) - Analytics toolset that provides insights into website performance, traffic, and keyword rankings.
