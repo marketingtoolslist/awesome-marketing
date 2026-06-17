@@ -169,6 +169,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Piktochart](https://piktochart.com) - Review - Infographic maker and presentation tool to create visually appealing content.
   - [Adobe Spark](https://spark.adobe.com) - Review - Suite of design apps for creating social graphics, web pages, and videos.
   - [Tellers.AI](https://tellers.ai) - Review - Turn your scripts, articles and podcasts into videos based on your own footage.
+  - [Xiaohongshu Carousel Prompt Generator](https://ronnie2025.github.io/xiaohongshu-carousel-prompt-generator/) - Review - Browser-side tool for drafting Rednote/Xiaohongshu carousel hooks, slide structures, image prompts, and publishing checklists.
 
 ### Content Management Systems (CMS)
 
@@ -444,4 +445,3 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 - **[SEO Roadmap](https://github.com/seoroadmap/seo-roadmap)** - A Simple roadmap for your SEO journey.
 - **Coursera Marketing Courses** - Offers courses on digital marketing, social media marketing, and more from top universities. [Visit Coursera](https://www.coursera.org/)
 - **Google Digital Garage** - Free online courses from Google on digital marketing, data and tech. [Visit Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage)
-
