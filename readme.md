@@ -165,6 +165,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
   - [WordPress](https://wordpress.com) - Review - Open-source content management system (CMS) for building and managing websites and blogs.
   - [Canva](https://www.canva.com) - Review - Design tool for creating professional graphics, presentations, social media posts, and more.
+  - [igly.ai](https://igly.ai) - Review - AI image editor for creating marketing visuals with background removal, inpainting, upscaling, and generative fill.
   - [Animoto](https://animoto.com) - Review - Video creation platform that enables you to produce professional-quality videos with ease.
   - [Piktochart](https://piktochart.com) - Review - Infographic maker and presentation tool to create visually appealing content.
   - [Adobe Spark](https://spark.adobe.com) - Review - Suite of design apps for creating social graphics, web pages, and videos.
@@ -444,4 +445,3 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 - **[SEO Roadmap](https://github.com/seoroadmap/seo-roadmap)** - A Simple roadmap for your SEO journey.
 - **Coursera Marketing Courses** - Offers courses on digital marketing, social media marketing, and more from top universities. [Visit Coursera](https://www.coursera.org/)
 - **Google Digital Garage** - Free online courses from Google on digital marketing, data and tech. [Visit Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage)
-
