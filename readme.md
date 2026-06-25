@@ -311,6 +311,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Google Optimize](https://optimize.google.com) - Review - Free A/B testing and personalization tool by Google that integrates with Google Analytics.
   - [Crazy Egg](https://www.crazyegg.com) - Review - Visual analytics and testing platform that includes heatmaps, click maps, and user recordings.
   - [Optimal UX](https://optimalux.com) - Review - Seamless SEO patching and A/B testing tool powered by Cloudflare for effortless integration.
+  - [ab-test-helpers](https://github.com/maaislam/ab-test-helpers) - Open source - Dependency-free JavaScript helpers for client-side A/B tests: late elements, SPA routes, flicker, React inputs, exit intent.
 
 ### Dashboards and Reporting
 
