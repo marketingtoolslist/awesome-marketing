@@ -142,6 +142,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Later](https://later.com) - Review - Visual content calendar for planning and scheduling Instagram, Facebook, Twitter, and Pinterest posts.
   - [SocialBee](https://socialbee.io) - Review - Social media management platform that allows for content scheduling, recycling, and curation.
   - [ReplyZen](https://www.replyzen.ai) - Review - AI tool that automates social media comment management for Facebook and Instagram, auto replying and moderating comments.
+  - [SocialClaw](https://getsocialclaw.com) - Review - Social media scheduling and publishing built for AI agents, with one workspace API key to schedule, publish, and track posts across X, LinkedIn, Instagram, Facebook Pages, TikTok, YouTube, Reddit, Pinterest, WordPress, Discord, and Telegram via API, MCP, or CLI.
 
 ### Social Media Advertising
 
