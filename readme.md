@@ -387,11 +387,12 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
 ### Competitor Analysis
 
-  - [SpyFu](https://www.spyfu.com) - Review - Competitor research tool that reveals the keywords websites are buying on Google Ads and the keywords they're ranking for in organic search.
-  - [SimilarWeb](https://www.similarweb.com) - Review - Website analytics and competitive analysis platform that provides insights on traffic sources, engagement, and audience demographics.
   - [Crayon](https://www.crayon.co) - Review - Competitive intelligence platform that tracks your competitors' digital footprints to uncover strategic insights.
-  - [Owler](https://www.owler.com) - Review - Business insights platform that provides real-time news, alerts, and analysis on competitors and industry trends.
+  - [GetAppNiche](https://getappniche.com) - Review - App Store intelligence for iOS revenue estimates, ASO keywords, competitor ads, and reviews.
   - [Kompyte](https://www.kompyte.com) - Review - Competitor tracking software that monitors competitor websites, social media, and online ads in real-time.
+  - [Owler](https://www.owler.com) - Review - Business insights platform that provides real-time news, alerts, and analysis on competitors and industry trends.
+  - [SimilarWeb](https://www.similarweb.com) - Review - Website analytics and competitive analysis platform that provides insights on traffic sources, engagement, and audience demographics.
+  - [SpyFu](https://www.spyfu.com) - Review - Competitor research tool that reveals the keywords websites are buying on Google Ads and the keywords they're ranking for in organic search.
 
 
 ## Brand Management
@@ -444,4 +445,3 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 - **[SEO Roadmap](https://github.com/seoroadmap/seo-roadmap)** - A Simple roadmap for your SEO journey.
 - **Coursera Marketing Courses** - Offers courses on digital marketing, social media marketing, and more from top universities. [Visit Coursera](https://www.coursera.org/)
 - **Google Digital Garage** - Free online courses from Google on digital marketing, data and tech. [Visit Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage)
-
