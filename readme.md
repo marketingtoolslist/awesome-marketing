@@ -95,6 +95,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - [Review](https://marketingtoolslist.com/google-pagespeed-insights) - Tool that analyzes a page’s content and provides suggestions for speeding up your site.
   - [GTmetrix](https://gtmetrix.com) - [Review](https://marketingtoolslist.com/gtmetrix) - Performance analysis tool that provides insights into how well your site loads and helps identify where improvements can be made.
   - [Sitebulb](https://sitebulb.com) - [Review](https://marketingtoolslist.com/sitebulb) - Desktop-based website audit tool for technical SEO with visual representations.
+  - [AnswerLens](https://app.sfdj.net/) - Public-evidence audit for B2B SaaS sites covering crawlable pages, metadata, pricing, comparison pages, proof, and llms.txt.
 
 ### Link Building
 
@@ -444,4 +445,3 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 - **[SEO Roadmap](https://github.com/seoroadmap/seo-roadmap)** - A Simple roadmap for your SEO journey.
 - **Coursera Marketing Courses** - Offers courses on digital marketing, social media marketing, and more from top universities. [Visit Coursera](https://www.coursera.org/)
 - **Google Digital Garage** - Free online courses from Google on digital marketing, data and tech. [Visit Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage)
-
