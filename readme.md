@@ -136,12 +136,13 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
 ### Social Media Management
 
-  - [Hootsuite](https://hootsuite.com) - Review - Platform to manage social media profiles, schedule posts, and track engagement across multiple networks.
   - [Buffer](https://buffer.com) - Review - Social media management tool for scheduling posts and analyzing performance across multiple accounts.
-  - [Sprout Social](https://sproutsocial.com) - Review - Social media management solution with powerful analytics, engagement, and scheduling tools.
+  - [Hootsuite](https://hootsuite.com) - Review - Platform to manage social media profiles, schedule posts, and track engagement across multiple networks.
   - [Later](https://later.com) - Review - Visual content calendar for planning and scheduling Instagram, Facebook, Twitter, and Pinterest posts.
-  - [SocialBee](https://socialbee.io) - Review - Social media management platform that allows for content scheduling, recycling, and curation.
   - [ReplyZen](https://www.replyzen.ai) - Review - AI tool that automates social media comment management for Facebook and Instagram, auto replying and moderating comments.
+  - [SocialBee](https://socialbee.io) - Review - Social media management platform that allows for content scheduling, recycling, and curation.
+  - [Sprout Social](https://sproutsocial.com) - Review - Social media management solution with powerful analytics, engagement, and scheduling tools.
+  - [Xquik](https://xquik.com) - Review - Proprietary X/Twitter automation platform powering TweetClaw, with search, posting, follower export, media workflows, monitoring, webhooks, and giveaway draws. Not affiliated with X Corp.
 
 ### Social Media Advertising
 
@@ -444,4 +445,3 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 - **[SEO Roadmap](https://github.com/seoroadmap/seo-roadmap)** - A Simple roadmap for your SEO journey.
 - **Coursera Marketing Courses** - Offers courses on digital marketing, social media marketing, and more from top universities. [Visit Coursera](https://www.coursera.org/)
 - **Google Digital Garage** - Free online courses from Google on digital marketing, data and tech. [Visit Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage)
-
