@@ -254,6 +254,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
   - [Zapier](https://zapier.com) - Review - Automation tool that connects your apps and automates repetitive tasks.
   - [Integromat](https://www.integromat.com) - Review - Automation platform that allows you to connect apps and automate workflows.
+  - [Lucidity](https://www.luciditybot.com/) - Review - First-party lead operations platform for capturing, validating, routing, delivering, and attributing leads.
   - [Automate.io](https://automate.io) - Review - Simple tool for automating repetitive tasks and connecting apps.
   - [CoSchedule](https://coschedule.com) - Review - Marketing calendar and project management software for organizing marketing activities.
   - [HubSpot](https://www.hubspot.com) - Review - CRM platform with robust marketing workflow automation capabilities.
