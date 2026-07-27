@@ -163,6 +163,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
 ### Content Creation
 
+- [CharaVox](https://charavox.com) - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
   - [WordPress](https://wordpress.com) - Review - Open-source content management system (CMS) for building and managing websites and blogs.
   - [Canva](https://www.canva.com) - Review - Design tool for creating professional graphics, presentations, social media posts, and more.
   - [Animoto](https://animoto.com) - Review - Video creation platform that enables you to produce professional-quality videos with ease.
