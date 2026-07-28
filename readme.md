@@ -249,6 +249,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [HubSpot](https://www.hubspot.com) - Review - Comprehensive CRM platform with powerful marketing automation features.
   - [ActiveCampaign](https://www.activecampaign.com) - Review - Marketing automation platform with integrated email marketing, CRM, and messaging tools.
   - [Infusionsoft](https://keap.com/infusionsoft) - Review - All-in-one sales and marketing automation software for small businesses.
+  - [Hermes](https://buildwithhermes.com) - Review - White-label AI voice agent platform for agencies. Deploy outbound and inbound voice agents that qualify, follow up with, and nurture leads, with a built-in CRM and campaign orchestration. From $149/month.
 
 ### Marketing Workflow Automation
 
