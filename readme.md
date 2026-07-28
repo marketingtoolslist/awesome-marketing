@@ -403,6 +403,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Trustpilot](https://www.trustpilot.com) - Review - Consumer review website that allows businesses to build and manage their online reputation through customer reviews.
   - [Podium](https://www.podium.com) - Review - Interaction management platform that helps businesses manage customer reviews, messaging, and payments.
   - [Yotpo](https://www.yotpo.com) - Review - Customer content marketing platform that helps brands leverage reviews, photos, and Q&A to build trust and drive sales.
+  - [Reply Champion](https://www.replychampion.com/) - AI-powered Google review management for small businesses, including review responses, review requests, and Google review link tools.
 
 ### Brand Monitoring
 
