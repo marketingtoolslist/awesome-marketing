@@ -125,6 +125,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 ### SEO Analytics
 
   - [Google Search Console](https://search.google.com/search-console) - [Review](https://marketingtoolslist.com/google-search-console) - Free tool by Google that helps monitor and maintain your site's presence in Google Search results.
+  - [GSC Opportunity Analyzer](https://seoreportkit.com/tools/gsc-opportunity-analysis/) - Free browser-local analyzer and open-source CLI that turns Google Search Console CSV exports into striking-distance, CTR-gap, rising-demand, decay, and page-opportunity queues without uploading data.
   - [SEMrush](https://www.semrush.com/analytics/) - [Review](https://marketingtoolslist.com/semrush) - Comprehensive SEO analytics tool for tracking performance and analyzing competitors.
   - [Ahrefs](https://ahrefs.com/analytics) - [Review](https://marketingtoolslist.com/ahrefs) - Analytics toolset that provides insights into website performance, traffic, and keyword rankings.
   - [SpyFu](https://www.spyfu.com) - [Review](https://marketingtoolslist.com/spyfu) - SEO and PPC competitor research tool for discovering every keyword a competitor has bought on Google Ads.
@@ -444,4 +445,3 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 - **[Awesome Lead Generation](https://github.com/dariubs/awesome-lead-generation)** - A curated list of tools, strategies, playbooks, and resources for generating, qualifying, and converting leads.
 - **Coursera Marketing Courses** - Offers courses on digital marketing, social media marketing, and more from top universities. [Visit Coursera](https://www.coursera.org/)
 - **Google Digital Garage** - Free online courses from Google on digital marketing, data and tech. [Visit Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage)
-
