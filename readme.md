@@ -392,6 +392,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Crayon](https://www.crayon.co) - Review - Competitive intelligence platform that tracks your competitors' digital footprints to uncover strategic insights.
   - [Owler](https://www.owler.com) - Review - Business insights platform that provides real-time news, alerts, and analysis on competitors and industry trends.
   - [Kompyte](https://www.kompyte.com) - Review - Competitor tracking software that monitors competitor websites, social media, and online ads in real-time.
+- [Trends MCP](https://trendsmcp.ai) - Keyword and topic trend data across Google, YouTube, TikTok, Reddit, more. Free tier.
 
 
 ## Brand Management
