@@ -442,6 +442,6 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 ## Online Resources and Courses
 
 - **[Awesome AI Marketing](https://github.com/sarahdanesh/awesome-ai-marketing)** - A curated list of AI Tools for Marketing
-- **[SEO Roadmap](https://github.com/seoroadmap/seo-roadmap)** - A Simple roadmap for your SEO journey.
+- **[Awesome Lead Generation](https://github.com/dariubs/awesome-lead-generation)** - A curated list of tools, strategies, playbooks, and resources for generating, qualifying, and converting leads.
 - **Coursera Marketing Courses** - Offers courses on digital marketing, social media marketing, and more from top universities. [Visit Coursera](https://www.coursera.org/)
 - **Google Digital Garage** - Free online courses from Google on digital marketing, data and tech. [Visit Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage)
