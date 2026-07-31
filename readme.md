@@ -50,6 +50,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Adaptive Insights](https://www.adaptiveinsights.com) - [Review](https://marketingtoolslist.com/adaptive-insights-by-workday) - Financial planning and analysis software to improve business agility.
   - [Float](https://float.com) - [Review](https://marketingtoolslist.com/float) - Cash flow forecasting software for managing budgets and financials.
   - [HubSpot Forecasting Tool](https://www.hubspot.com/sales-forecast-template) - [Review](https://marketingtoolslist.com/hubspot) - Free tool to help predict future sales and revenue.
+  - [Hadrian Marketing Calculators](https://hadrian.marketing/tools) - Review - Free suite of 17 marketing/SaaS calculators (CAC, LTV, LTV:CAC ratio, churn rate, ROAS, CPM/CPC/CTR/CPA, marketing ROI, Rule of 40, burn multiple, SaaS magic number, and more) for budgeting, forecasting, and efficiency benchmarking.
 
 ### Competitor and Market Analysis
 
