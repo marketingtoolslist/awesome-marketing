@@ -347,6 +347,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Drift](https://www.drift.com) - Review - Conversational marketing platform that combines chat, email, and automation to improve customer engagement.
   - [Help Scout](https://www.helpscout.com) - Review - Customer service platform designed to help small businesses manage email, live chat, and knowledge base interactions.
   - [NeetoDesk](https://neeto.com/neetodesk) - Review - A price-competitive customer service software to help companies provide support using email.
+  - [Workforce Wave](https://www.workforcewave.com) - Review - AI voice receptionist that answers business calls 24/7, books appointments, and captures leads for service businesses.
 
 
 ## Advertising and Media Buying
