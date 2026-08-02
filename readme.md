@@ -264,6 +264,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Smaply](https://www.smaply.com) - Review - Tool for mapping customer journeys, personas, and stakeholder maps.
   - [Gliffy](https://www.gliffy.com) - Review - Easy-to-use diagramming tool for creating flowcharts, diagrams, and more.
   - [Creately](https://creately
+- [NOW](https://now.letmethink.cc/) - A location-based short-video map where moments can only be captured on the spot.
 
 
 ## Search Engine Marketing (SEM)
