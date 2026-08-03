@@ -256,6 +256,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Integromat](https://www.integromat.com) - Review - Automation platform that allows you to connect apps and automate workflows.
   - [Automate.io](https://automate.io) - Review - Simple tool for automating repetitive tasks and connecting apps.
   - [CoSchedule](https://coschedule.com) - Review - Marketing calendar and project management software for organizing marketing activities.
+  - [Great AI Marketing](https://greataimarketing.com) - AI marketing agency helping businesses harness artificial intelligence to run campaigns, automate customer engagement, and drive growth.
   - [HubSpot](https://www.hubspot.com) - Review - CRM platform with robust marketing workflow automation capabilities.
 
 ### Customer Journey Mapping
