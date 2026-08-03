@@ -90,6 +90,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
 ### Technical SEO
 
+  - [Broken Link Checker](https://chromewebstore.google.com/detail/broken-link-checker/cipdlgmjblnniiicohcmcafcncippbha) - Free Chrome extension that checks every link on the current page, highlights redirects and failures, and exports results to CSV.
   - [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/) - [Review](https://marketingtoolslist.com/screaming-frog-seo-spider) - Website crawler that helps improve onsite SEO by analyzing website elements.
   - [DeepCrawl](https://www.deepcrawl.com) - [Review](https://marketingtoolslist.com/lumar-formerly-deepcrawl) - Cloud-based SEO tool for website audits and technical SEO analysis.
   - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - [Review](https://marketingtoolslist.com/google-pagespeed-insights) - Tool that analyzes a page’s content and provides suggestions for speeding up your site.
@@ -444,4 +445,3 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 - **[Awesome Lead Generation](https://github.com/dariubs/awesome-lead-generation)** - A curated list of tools, strategies, playbooks, and resources for generating, qualifying, and converting leads.
 - **Coursera Marketing Courses** - Offers courses on digital marketing, social media marketing, and more from top universities. [Visit Coursera](https://www.coursera.org/)
 - **Google Digital Garage** - Free online courses from Google on digital marketing, data and tech. [Visit Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage)
-
