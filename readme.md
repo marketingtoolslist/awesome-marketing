@@ -1,4 +1,5 @@
 # Awesome Marketing
+- [ReviewPilot](https://lijustin655.github.io/review-pilot/) - Free AI review analysis for e-commerce sellers. Paste product reviews, get top complaint reasons, sentiment breakdown, and improvement actions in 30 seconds.
 
 A curated list of awesome marketing tools, books, blogs, podcasts, and resources for marketers, business professionals, and anyone interested in the art and science of marketing. Whether you're focused on digital marketing, content marketing, or searching for specific insights, this list aims to provide valuable resources across a wide spectrum of marketing disciplines.
 
