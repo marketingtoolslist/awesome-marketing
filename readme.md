@@ -225,6 +225,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Google Analytics for Email](https://ga-dev-tools.web.app/ga4/campaign-url-builder/) - Review - Tool to track email marketing campaigns using Google Analytics.
   - [Campaign Monitor](https://www.campaignmonitor.com) - Review - Email marketing platform with powerful analytics and segmentation tools.
   - [HubSpot](https://www.hubspot.com) - Review - CRM platform with integrated email analytics and performance tracking features.
+  - [Osservatorio Cold Email Italia](https://clientium.it/osservatorio/) - Open dataset of 723 Italian B2B cold email campaigns (3.7M emails) with reply-rate benchmarks by sector, CC BY 4.0.
 
 ### Email Design
 
