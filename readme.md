@@ -197,6 +197,9 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Curata](https://www.curata.com) - Review - Content curation software for discovering, organizing, and sharing high-quality content.
   - [BuzzSumo](https://buzzsumo.com) - Review - Tool to find the most shared content and trending topics in any niche.
 
+### Translation & Localization
+ - [Alconost](https://alconost.com) — Full-stack localization for software, games, and marketing content. 120+ languages, ISO 17100/18587 certified.                                                                                                             - [Nitro](https://nitrotranslate.com) — Self-service human translation API for content and marketing teams. Fast turnaround, professional translators in 70+ languages.                         
+
 ## Email Marketing
 
 ### Email Campaigns
