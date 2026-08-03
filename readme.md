@@ -347,7 +347,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Drift](https://www.drift.com) - Review - Conversational marketing platform that combines chat, email, and automation to improve customer engagement.
   - [Help Scout](https://www.helpscout.com) - Review - Customer service platform designed to help small businesses manage email, live chat, and knowledge base interactions.
   - [NeetoDesk](https://neeto.com/neetodesk) - Review - A price-competitive customer service software to help companies provide support using email.
-
+  - [Knocket](https://trtc.io/solutions/knocket) - Free-forever live chat widget + shareable contact page with a unified Telegram/Email inbox. One script tag, no seat limits.
 
 ## Advertising and Media Buying
 
