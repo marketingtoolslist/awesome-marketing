@@ -100,6 +100,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
   - [Ahrefs](https://ahrefs.com) - [Review](https://marketingtoolslist.com/ahrefs) - Toolset for backlink analysis, competitor research, and link-building strategies.
   - [BuzzStream](https://www.buzzstream.com) - [Review](https://marketingtoolslist.com/buzz-stream) - Outreach platform that helps with link building and managing relationships with influencers.
+  - [DR Checker](https://dr-checker.com/) - Free Ahrefs Domain Rating checker for quick backlink prospect and competitor authority checks.
   - [Pitchbox](https://pitchbox.com) - [Review](https://marketingtoolslist.com/pitchbox) - Outreach and link building software that automates the process of connecting with influencers.
   - [Majestic](https://majestic.com) - [Review](https://marketingtoolslist.com/%20majestic-seo) - Backlink analysis tool that provides comprehensive link intelligence data.
   - [Moz Link Explorer](https://moz.com/link-explorer) - [Review](https://marketingtoolslist.com/moz) - Tool for analyzing backlinks, finding link-building opportunities, and tracking your site's link profile.
@@ -444,4 +445,3 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 - **[Awesome Lead Generation](https://github.com/dariubs/awesome-lead-generation)** - A curated list of tools, strategies, playbooks, and resources for generating, qualifying, and converting leads.
 - **Coursera Marketing Courses** - Offers courses on digital marketing, social media marketing, and more from top universities. [Visit Coursera](https://www.coursera.org/)
 - **Google Digital Garage** - Free online courses from Google on digital marketing, data and tech. [Visit Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage)
-
