@@ -95,6 +95,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - [Review](https://marketingtoolslist.com/google-pagespeed-insights) - Tool that analyzes a page’s content and provides suggestions for speeding up your site.
   - [GTmetrix](https://gtmetrix.com) - [Review](https://marketingtoolslist.com/gtmetrix) - Performance analysis tool that provides insights into how well your site loads and helps identify where improvements can be made.
   - [Sitebulb](https://sitebulb.com) - [Review](https://marketingtoolslist.com/sitebulb) - Desktop-based website audit tool for technical SEO with visual representations.
+  - [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin that pulls real Google Search Console and PageSpeed Insights data, runs technical SEO audits, and ships fixes (meta tags, JSON-LD schema, headings) directly to your repo or CMS.
 
 ### Link Building
 
