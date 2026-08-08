@@ -249,6 +249,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [HubSpot](https://www.hubspot.com) - Review - Comprehensive CRM platform with powerful marketing automation features.
   - [ActiveCampaign](https://www.activecampaign.com) - Review - Marketing automation platform with integrated email marketing, CRM, and messaging tools.
   - [Infusionsoft](https://keap.com/infusionsoft) - Review - All-in-one sales and marketing automation software for small businesses.
+  - [Lead Intake Starter](https://github.com/evoschube-ai/lead-intake-template-pack/releases/tag/v1.0.0) - Free, no-signup CSV lead board, first-response templates, and setup guide for small service businesses.
 
 ### Marketing Workflow Automation
 
@@ -444,4 +445,3 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 - **[Awesome Lead Generation](https://github.com/dariubs/awesome-lead-generation)** - A curated list of tools, strategies, playbooks, and resources for generating, qualifying, and converting leads.
 - **Coursera Marketing Courses** - Offers courses on digital marketing, social media marketing, and more from top universities. [Visit Coursera](https://www.coursera.org/)
 - **Google Digital Garage** - Free online courses from Google on digital marketing, data and tech. [Visit Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage)
-
