@@ -245,6 +245,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 ### Lead Nurturing
 
   - [Marketo](https://www.marketo.com) - Review - Marketing automation software that offers lead management, email marketing, and analytics.
+  - [Mautic](https://www.mautic.org) - Review - Open-source marketing automation platform for email campaigns, segmentation, lead management, and customer journeys.
   - [Pardot](https://www.pardot.com) - Review - B2B marketing automation by Salesforce for managing email campaigns, nurturing leads, and more.
   - [HubSpot](https://www.hubspot.com) - Review - Comprehensive CRM platform with powerful marketing automation features.
   - [ActiveCampaign](https://www.activecampaign.com) - Review - Marketing automation platform with integrated email marketing, CRM, and messaging tools.
