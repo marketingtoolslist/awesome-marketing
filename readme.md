@@ -302,6 +302,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Hotjar](https://www.hotjar.com) - Review - Behavior analytics and user feedback service that helps you understand how users interact with your site.
   - [Crazy Egg](https://www.crazyegg.com) - Review - Visual analytics tool offering heatmaps, scroll maps, and A/B testing to improve website performance.
   - [Piwik PRO](https://piwik.pro) - Review - Privacy-focused analytics suite that offers detailed insights into website visitors' behavior.
+  - [BeginThings](https://beginthings.com) - Free - 96+ free browser-based tools including UTM builder, URL shortener, QR code generator, and invoice generator. No signup required.
 
 ### Conversion Rate Optimization (CRO)
 
