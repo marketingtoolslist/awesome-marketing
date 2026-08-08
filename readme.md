@@ -111,6 +111,8 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Moz Local](https://moz.com/products/local) - Review - Tool to manage and improve your local business listings across the web.
   - [Whitespark](https://whitespark.ca) - Review - Tools and services to help businesses rank better in local search results.
   - [Synup](https://synup.com) - Review - Comprehensive local marketing platform for managing business listings, reviews, and SEO.
+  - [Schema Generator for Local Business](https://landing-five-dusky-44.vercel.app/schema-generator) - Free tool to generate JSON-LD Schema markup for local businesses (LocalBusiness, Restaurant, MedicalBusiness and more). No signup required.
+  - [Website Speed Comparison Tool](https://landing-five-dusky-44.vercel.app/comparar-velocidad) - Free tool to compare your website speed vs. a competitor using Google PageSpeed Insights data. Useful for local SEO audits.
 
 ### SERP Tracking
 
