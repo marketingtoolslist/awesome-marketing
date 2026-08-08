@@ -249,6 +249,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [HubSpot](https://www.hubspot.com) - Review - Comprehensive CRM platform with powerful marketing automation features.
   - [ActiveCampaign](https://www.activecampaign.com) - Review - Marketing automation platform with integrated email marketing, CRM, and messaging tools.
   - [Infusionsoft](https://keap.com/infusionsoft) - Review - All-in-one sales and marketing automation software for small businesses.
+  - [Beton Inspector](https://github.com/getbeton/inspector) - Open-source revenue intelligence that scores leads from PostHog product-usage signals + CRM data and routes the warmest ones to sales reps. Self-hostable.
 
 ### Marketing Workflow Automation
 
