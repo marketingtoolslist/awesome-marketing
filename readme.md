@@ -392,6 +392,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Crayon](https://www.crayon.co) - Review - Competitive intelligence platform that tracks your competitors' digital footprints to uncover strategic insights.
   - [Owler](https://www.owler.com) - Review - Business insights platform that provides real-time news, alerts, and analysis on competitors and industry trends.
   - [Kompyte](https://www.kompyte.com) - Review - Competitor tracking software that monitors competitor websites, social media, and online ads in real-time.
+  - [ViewIGStory](https://www.view-ig-story.com) - Review - Anonymous Instagram story viewer for competitor research; observe how competing brands tell stories without leaving a trace in their viewer list.
 
 
 ## Brand Management
