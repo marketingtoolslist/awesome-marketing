@@ -379,6 +379,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
 ### Market Research Tools
 
+  - [AudienceCue](https://audiencecue.com/en/tools/youtube-comment-downloader) - YouTube comment research tool for downloading public comments as CSV and finding audience signals.
   - [SurveyMonkey](https://www.surveymonkey.com) - Review - Leading online survey platform for creating, distributing, and analyzing surveys.
   - [Typeform](https://www.typeform.com) - Review - User-friendly survey and form-building tool known for its conversational and interactive interface.
   - [Toluna](https://www.toluna.com) - Review - Real-time digital consumer insights platform for conducting surveys and gathering consumer feedback.
