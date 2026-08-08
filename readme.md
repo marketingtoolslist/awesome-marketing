@@ -314,6 +314,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
 ### Dashboards and Reporting
 
+  - [Agentcy](https://www.goagentcy.com) - Review - Powerful AI marketing agent that plugs into the AI tools you're already using like Claude and ChatGPT. Ask it anything about your marketing data and it figures out the rest.
   - [Tableau](https://www.tableau.com) - Review - Powerful data visualization software that helps create interactive and shareable dashboards.
   - [Google Data Studio](https://datastudio.google.com) - Review - Free data visualization tool that turns data into informative and customizable dashboards and reports.
   - [Klipfolio](https://www.klipfolio.com) - Review - Dashboard and reporting software that allows you to connect, visualize, and share your data.
