@@ -90,6 +90,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
 ### Technical SEO
 
+  - [AuditWidget](https://auditwidget.app/?utm_source=github&utm_medium=awesome_list&utm_campaign=awesome-marketing) - [Review](https://auditwidget.app/?utm_source=github&utm_medium=awesome_list&utm_campaign=awesome-marketing) - Embeddable SEO audit widget for agencies. Drop one script tag — visitors run a 12-point analysis and share their email to unlock the full report. Free plan available.
   - [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/) - [Review](https://marketingtoolslist.com/screaming-frog-seo-spider) - Website crawler that helps improve onsite SEO by analyzing website elements.
   - [DeepCrawl](https://www.deepcrawl.com) - [Review](https://marketingtoolslist.com/lumar-formerly-deepcrawl) - Cloud-based SEO tool for website audits and technical SEO analysis.
   - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - [Review](https://marketingtoolslist.com/google-pagespeed-insights) - Tool that analyzes a page’s content and provides suggestions for speeding up your site.
