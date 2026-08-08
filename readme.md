@@ -78,6 +78,10 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [KeywordTool.io](https://keywordtool.io) - [Review](https://marketingtoolslist.com/keyword-tool) - Tool for finding long-tail keywords for SEO, PPC, and content creation.
   - [Serplux](https://www.serplux.com) - [Review]([https://serplux.com/premium](https://serplux.com/premium/agent/keyword-analyser) - All-in-one marketing toolkit for SEO, PPC, and content marketing.
     
+### AI Search Visibility
+
+  - [GEOScore AI](https://geoscoreai.com) - AI search visibility scanner that measures website performance in AI search engines (ChatGPT, Perplexity, Google AI Overviews, Gemini) with 11 technical checks.
+
 ### On-Page SEO
 
   - [Yoast SEO](https://yoast.com) - [Review](https://marketingtoolslist.com/yoast-seo) - WordPress plugin for optimizing on-page SEO elements.
