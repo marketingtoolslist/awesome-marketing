@@ -56,6 +56,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Statista](https://www.statista.com) - [Review](https://marketingtoolslist.com/statista) - Online statistics, market research, and business intelligence portal.
   - [IBISWorld](https://www.ibisworld.com) - [Review](https://marketingtoolslist.com/ibisworld) - Industry market research reports and data for strategic planning.
   - [Crayon](https://www.crayon.co) - [Review](https://marketingtoolslist.com/crayon) - Competitive intelligence platform for tracking competitors and market trends.
+  - [GetAppNiche](https://getappniche.com) - Review - App Store intelligence for indie iOS founders to track revenue estimates, downloads, keywords, ads, and reviews.
   - [SimilarWeb](https://www.similarweb.com) - [Review](https://marketingtoolslist.com/similarweb) - Provides website analytics, traffic insights, and competitive analysis.
   - [Owler](https://www.owler.com) - [Review](https://marketingtoolslist.com/owler) - Business insights platform that provides competitor information and company profiles.
 
