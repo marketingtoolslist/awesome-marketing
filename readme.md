@@ -217,6 +217,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Touchlead](https://touchlead.app) - Review - Marketing software with workflow automation, supporting email campaigns, social media scheduling and more.
   - [Autopilot](https://autopilothq.com) - Review - Visual marketing automation software for creating personalized customer journeys.
   - [Drip](https://www.drip.com) - Review - ECRM platform designed for building personalized email campaigns to engage customers.
+  - [Overloop CLI](https://agent.overloop.ai) - [Review](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source contacts from 450M+ profiles, run multi-channel campaigns (email + LinkedIn), and enroll prospects. JSON output.
 
 ### Email Analytics
 
@@ -392,6 +393,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Crayon](https://www.crayon.co) - Review - Competitive intelligence platform that tracks your competitors' digital footprints to uncover strategic insights.
   - [Owler](https://www.owler.com) - Review - Business insights platform that provides real-time news, alerts, and analysis on competitors and industry trends.
   - [Kompyte](https://www.kompyte.com) - Review - Competitor tracking software that monitors competitor websites, social media, and online ads in real-time.
+  - [Signals CLI](https://github.com/sortlist/signals-cli) - [Review](https://github.com/sortlist/signals-cli) - Intent signal monitoring for B2B. Track LinkedIn engagement, keyword posters, job changers, and funding events. JSON output.
 
 
 ## Brand Management
