@@ -384,6 +384,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Toluna](https://www.toluna.com) - Review - Real-time digital consumer insights platform for conducting surveys and gathering consumer feedback.
   - [Qualtrics](https://www.qualtrics.com) - Review - Experience management platform that helps organizations manage customer, employee, product, and brand experiences.
   - [Google Surveys](https://surveys.google.com) - Review - Simple, fast survey platform by Google that provides quick insights through online surveys.
+  - [InfiniteLeadsHub](https://infiniteleadshub.com) - Review - B2B data marketplace offering verified contact datasets (e.g., 230k+ US medical clinics with phone, email, and social profiles) for market research and lead generation.
 
 ### Competitor Analysis
 
