@@ -53,6 +53,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
 ### Competitor and Market Analysis
 
+  - [earlymate](https://earlymate.com) - Review - Monitor competitors, markets and custom topics over time with focused weekly summaries.
   - [Statista](https://www.statista.com) - [Review](https://marketingtoolslist.com/statista) - Online statistics, market research, and business intelligence portal.
   - [IBISWorld](https://www.ibisworld.com) - [Review](https://marketingtoolslist.com/ibisworld) - Industry market research reports and data for strategic planning.
   - [Crayon](https://www.crayon.co) - [Review](https://marketingtoolslist.com/crayon) - Competitive intelligence platform for tracking competitors and market trends.
