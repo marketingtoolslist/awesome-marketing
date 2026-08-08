@@ -432,6 +432,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 - [Awesome Marketing Blog](https://awesome-marketing.com) - Find anything about marketing
 - **HubSpot Blog** - Offers information on inbound marketing, sales, and customer service strategies. [Visit Blog](https://blog.hubspot.com/)
 - **Neil Patel's Blog** - Covers a range of digital marketing topics with actionable tips and guides. [Visit Blog](https://neilpatel.com/blog/)
+- - [Compare AI Tools](https://compareaitools.org) - Independent, hands-on tested comparisons of AI and marketing tools.
 
 ## Podcasts
 
