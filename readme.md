@@ -233,12 +233,17 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Litmus Builder](https://litmus.com/builder) - Review - Tool for designing, building, and testing emails in one place.
   - [Postcards by Designmodo](https://designmodo.com/postcards/) - Review - Easy-to-use email design tool for creating responsive email templates.
   - [Chamaileon](https://chamaileon.io) - Review - Collaborative email design platform for creating custom email templates.
+  - [MiN8T CSS Inliner](https://min8t.com/tools/css-inliner/) - Review - Free in-browser CSS inliner for HTML email; preserves @media, @keyframes, and pseudo-class rules.
+  - [MiN8T MJML to HTML](https://min8t.com/tools/mjml-converter/) - Review - Free in-browser MJML compiler with live iframe preview and validation.
+  - [MiN8T Bulletproof Button Generator](https://min8t.com/tools/button-generator/) - Review - Free email-safe CTA button generator with VML fallback for Outlook desktop.
 
 ### Email Deliverability
 
   - [Heybounce](https://www.heybounce.io) - Review - Email verification service that checks if an email exists and detects disposable emails to reduce bounce rates.
   - [GlockApps](https://glockapps.com/) - Review - Tool to diagnose email deliverability problems.
   - [Mailtrap](https://mailtrap.io/) - Review - Platform used to test deliverability before sending and control results in one place.
+  - [MiN8T Spam Score Checker](https://min8t.com/tools/spam-checker/) - Review - Free unlimited 21-rule SpamAssassin-style scoring with rule-by-rule breakdown.
+  - [MiN8T Inbox Preview](https://min8t.com/tools/inbox-preview/) - Review - Free side-by-side preview of HTML email in Gmail, Apple Mail, and a strict-mode Outlook approximation.
 
 ## Marketing Automation
 
