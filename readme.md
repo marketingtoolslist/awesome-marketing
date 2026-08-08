@@ -311,6 +311,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Google Optimize](https://optimize.google.com) - Review - Free A/B testing and personalization tool by Google that integrates with Google Analytics.
   - [Crazy Egg](https://www.crazyegg.com) - Review - Visual analytics and testing platform that includes heatmaps, click maps, and user recordings.
   - [Optimal UX](https://optimalux.com) - Review - Seamless SEO patching and A/B testing tool powered by Cloudflare for effortless integration.
+  - [SaaS Pricing Page Confidence Checklist](https://saas-pricing-page-confidence-checklist.vercel.app/) - Review - Free, open-source, browser-only checklist for reviewing SaaS pricing-page clarity, proof, plan comparison, and conversion-risk signals before launch.
 
 ### Dashboards and Reporting
 
