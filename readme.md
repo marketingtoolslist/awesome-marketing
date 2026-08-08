@@ -136,6 +136,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
 ### Social Media Management
 
+  - [Social Media Marketing Skills](https://github.com/sergebulaev/linkedin-skills) - Review - Open-source Claude Code and Codex skills that draft, humanize, and schedule posts, comments, and replies across LinkedIn, X, TikTok, Threads, Instagram, Facebook, and YouTube.
   - [Hootsuite](https://hootsuite.com) - Review - Platform to manage social media profiles, schedule posts, and track engagement across multiple networks.
   - [Buffer](https://buffer.com) - Review - Social media management tool for scheduling posts and analyzing performance across multiple accounts.
   - [Sprout Social](https://sproutsocial.com) - Review - Social media management solution with powerful analytics, engagement, and scheduling tools.
