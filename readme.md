@@ -314,6 +314,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
 ### Dashboards and Reporting
 
+  - [1ClickReport](https://www.1clickreport.com) - Review - AI marketing analyst that unifies Google Ads, Meta Ads, GA4, and Stripe to audit campaigns, flag wasted spend, and report performance from one place.
   - [Tableau](https://www.tableau.com) - Review - Powerful data visualization software that helps create interactive and shareable dashboards.
   - [Google Data Studio](https://datastudio.google.com) - Review - Free data visualization tool that turns data into informative and customizable dashboards and reports.
   - [Klipfolio](https://www.klipfolio.com) - Review - Dashboard and reporting software that allows you to connect, visualize, and share your data.
