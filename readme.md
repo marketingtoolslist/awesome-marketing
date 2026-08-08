@@ -178,6 +178,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [HubSpot CMS](https://www.hubspot.com/products/cms) - CMS that integrates seamlessly with HubSpot’s CRM and marketing tools.
   - [Squarespace](https://www.squarespace.com) - All-in-one website builder offering beautifully designed templates and an easy-to-use interface.
   - [BCMS](https://thebcms.com) - BCMS is an API-based Headless CMS, that provides flexible content modeling for creative projects in Next.js, Astro, Nuxt.js, and more
+  - [JustBlogged](https://justblogged.com) - No-setup blogging platform with built-in SEO. Start your blog in 2 minutes. Free plan available.
 
 
 ### Copywriting Tools
