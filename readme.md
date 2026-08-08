@@ -399,6 +399,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 ### Reputation Management
 
   - [Brand24](https://brand24.com) - Review - Online reputation management tool that monitors your brand's mentions across social media, blogs, and forums.
+  - [ReputeMap](https://reputemap.com/review-management-software-for-agencies) - Review - Google review management software for agencies: monitor reviews, draft AI replies, request more reviews, and send white-label client reports.
   - [Reputology](https://www.reputology.com) - Review - Review monitoring and management platform designed to help businesses track and respond to online reviews.
   - [Trustpilot](https://www.trustpilot.com) - Review - Consumer review website that allows businesses to build and manage their online reputation through customer reviews.
   - [Podium](https://www.podium.com) - Review - Interaction management platform that helps businesses manage customer reviews, messaging, and payments.
@@ -444,4 +445,3 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 - **[Awesome Lead Generation](https://github.com/dariubs/awesome-lead-generation)** - A curated list of tools, strategies, playbooks, and resources for generating, qualifying, and converting leads.
 - **Coursera Marketing Courses** - Offers courses on digital marketing, social media marketing, and more from top universities. [Visit Coursera](https://www.coursera.org/)
 - **Google Digital Garage** - Free online courses from Google on digital marketing, data and tech. [Visit Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage)
-
