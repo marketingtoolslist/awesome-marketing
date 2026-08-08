@@ -319,6 +319,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Klipfolio](https://www.klipfolio.com) - Review - Dashboard and reporting software that allows you to connect, visualize, and share your data.
   - [Supermetrics](https://supermetrics.com) - Review - Data integration tool that pulls data from various marketing platforms into spreadsheets, dashboards, and data warehouses.
   - [Power BI](https://powerbi.microsoft.com) - Review - Business analytics service by Microsoft that provides interactive visualizations and business intelligence capabilities.
+  - [MarketiStats](https://marketistats.com) - Review - All-in-one marketing analytics dashboard for SaaS founders that consolidates social media, SEO, outreach, affiliate, and paid ads tracking into one place.
 
 ## Customer Relationship Management (CRM)
 
