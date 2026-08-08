@@ -383,6 +383,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Typeform](https://www.typeform.com) - Review - User-friendly survey and form-building tool known for its conversational and interactive interface.
   - [Toluna](https://www.toluna.com) - Review - Real-time digital consumer insights platform for conducting surveys and gathering consumer feedback.
   - [Qualtrics](https://www.qualtrics.com) - Review - Experience management platform that helps organizations manage customer, employee, product, and brand experiences.
+  - [Explorium AgentSource](https://www.explorium.ai/) - B2B data platform for AI agents, providing company and prospect intelligence, enrichment, business events, and intent signals through APIs and MCP.
   - [Google Surveys](https://surveys.google.com) - Review - Simple, fast survey platform by Google that provides quick insights through online surveys.
 
 ### Competitor Analysis
