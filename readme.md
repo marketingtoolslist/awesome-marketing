@@ -76,7 +76,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Moz](https://moz.com) - [Review](https://marketingtoolslist.com/moz) - SEO software offering keyword research, link building, and site audits.
   - [Ubersuggest](https://neilpatel.com/ubersuggest/) - [Review](https://marketingtoolslist.com/ubersuggest-by-neil-patel) - Free tool for generating new keyword ideas and analyzing SEO metrics.
   - [KeywordTool.io](https://keywordtool.io) - [Review](https://marketingtoolslist.com/keyword-tool) - Tool for finding long-tail keywords for SEO, PPC, and content creation.
-  - [Serplux](https://www.serplux.com) - [Review]([https://serplux.com/premium](https://serplux.com/premium/agent/keyword-analyser) - All-in-one marketing toolkit for SEO, PPC, and content marketing.
+  - [Serplux](https://www.serplux.com) - [Review](https://serplux.com/premium/agents/) - All-in-one marketing toolkit for SEO, PPC, and content marketing.
     
 ### On-Page SEO
 
@@ -85,7 +85,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Clearscope](https://www.clearscope.io) - [Review](https://marketingtoolslist.com/clearscope) - Content optimization platform that helps improve content relevance and SEO.
   - [MarketMuse](https://www.marketmuse.com) - [Review](https://marketingtoolslist.com/market-muse) - AI-driven platform for content research and on-page SEO optimization.
   - [Rank Math](https://rankmath.com) - [Review](https://marketingtoolslist.com/rank-math) - SEO plugin for WordPress that offers SEO suggestions while you write.
-  - [Serplux](https://www.serplux.com) - [Review]([https://serplux.com/premium](https://serplux.com/premium/agent/) - All-in-one marketing toolkit for SEO, PPC, and content marketing.
+  - [Serplux](https://www.serplux.com) - [Review](https://serplux.com/agents/) - All-in-one marketing toolkit for SEO, PPC, and content marketing.
   - 
 
 ### Technical SEO
