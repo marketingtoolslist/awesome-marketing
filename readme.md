@@ -42,6 +42,8 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Asana](https://asana.com) - [Review](https://marketingtoolslist.com/asana) - Project management platform that helps teams orchestrate their work, from daily tasks to strategic initiatives.
   - [Monday.com](https://monday.com) - [Review](https://marketingtoolslist.com/monday-com) - Work operating system to manage any team and any project with customizable workflows.
   - [Wrike](https://www.wrike.com) - [Review](https://marketingtoolslist.com/wrike) - Cloud-based collaboration and project management software.
+  - [Hivemind Plugin](https://github.com/Myosin-xyz/hivemind-plugin) - Claude Code / Codex plugin and CLI for Myosin's RAG-powered marketing AI, with strategist and GTM architect personas for launch plans, positioning, and campaign work.
+  - [Hivemind Skills](https://github.com/Myosin-xyz/hivemind-skills) - Open skill pack of 29 portable agent instructions covering strategic diagnostics, brand & narrative, tokenomics, community growth, engagement, and anti-patterns.
 
 ### Budgeting and Forecasting
 
