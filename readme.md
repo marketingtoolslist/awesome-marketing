@@ -132,6 +132,10 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [OnRanko](https://onranko.com/) - [Review](https://onranko.com/premium?agent=advanced-seo-strategy-generator) Harness AI-driven agents to supercharge your SEO, boost rankings, and maximize visibility.
 
 
+### AI Visibility Tracking (GEO/AEO)
+
+  - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) – Open-source, local-first AI visibility dashboard. Track brand mentions and citations across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, free – replaces paid tools like Profound or Otterly.ai at zero cost.
+
 ## Social Media Marketing
 
 ### Social Media Management
