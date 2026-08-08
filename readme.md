@@ -86,6 +86,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [MarketMuse](https://www.marketmuse.com) - [Review](https://marketingtoolslist.com/market-muse) - AI-driven platform for content research and on-page SEO optimization.
   - [Rank Math](https://rankmath.com) - [Review](https://marketingtoolslist.com/rank-math) - SEO plugin for WordPress that offers SEO suggestions while you write.
   - [Serplux](https://www.serplux.com) - [Review]([https://serplux.com/premium](https://serplux.com/premium/agent/) - All-in-one marketing toolkit for SEO, PPC, and content marketing.
+  - [TinyTools SEO Meta Tag Generator](https://tinytools-smoky.vercel.app/seo-meta-tags) - Free browser-based tool for generating complete SEO meta tags including Open Graph, Twitter Cards, and structured meta descriptions. No signup required, open source.
   - 
 
 ### Technical SEO
