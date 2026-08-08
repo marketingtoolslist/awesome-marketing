@@ -252,6 +252,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
 ### Marketing Workflow Automation
 
+- [Drevon](https://drevon.dev) - Mac desktop workspace for GTM engineers. Run parallel AI agents powered by Claude Code, Codex, or Copilot to build target lists, score accounts, and pull prospect intel.
   - [Zapier](https://zapier.com) - Review - Automation tool that connects your apps and automates repetitive tasks.
   - [Integromat](https://www.integromat.com) - Review - Automation platform that allows you to connect apps and automate workflows.
   - [Automate.io](https://automate.io) - Review - Simple tool for automating repetitive tasks and connecting apps.
