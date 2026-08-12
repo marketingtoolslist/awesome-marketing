@@ -102,6 +102,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [BuzzStream](https://www.buzzstream.com) - [Review](https://marketingtoolslist.com/buzz-stream) - Outreach platform that helps with link building and managing relationships with influencers.
   - [Pitchbox](https://pitchbox.com) - [Review](https://marketingtoolslist.com/pitchbox) - Outreach and link building software that automates the process of connecting with influencers.
   - [Majestic](https://majestic.com) - [Review](https://marketingtoolslist.com/%20majestic-seo) - Backlink analysis tool that provides comprehensive link intelligence data.
+  - [Mentioned](https://mentioned.to) - Done-for-you Reddit growth that earns brand mentions in the Reddit threads already ranking on Google for your keywords, and reports share of voice vs competitors.
   - [Moz Link Explorer](https://moz.com/link-explorer) - [Review](https://marketingtoolslist.com/moz) - Tool for analyzing backlinks, finding link-building opportunities, and tracking your site's link profile.
 
 ### Local SEO
