@@ -184,6 +184,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
   - [Jasper](https://www.jasper.ai) - Review - AI-powered copywriting tool for generating marketing copy, blog posts, and more.
   - [Copy.ai](https://www.copy.ai) - Review - AI writing assistant that helps generate creative and engaging copy for various purposes.
+  - [FirstClick Homepage Headline Generator](https://elyasibkr.github.io/firstclick-headline-generator/) - Free, open-source browser tool that turns plain-language offer inputs into three homepage headline directions, a supporting line, and a CTA.
   - [Grammarly](https://www.grammarly.com) - Review - Writing assistant that improves grammar, punctuation, clarity, and style.
   - [Hemingway](http://www.hemingwayapp.com) - Review - App that makes your writing concise and clear by highlighting complex sentences.
   - [Writesonic](https://writesonic.com) - Review - AI writer and copywriting tool that creates high-converting copy for ads, blogs, and more.
