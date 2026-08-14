@@ -389,6 +389,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
   - [SpyFu](https://www.spyfu.com) - Review - Competitor research tool that reveals the keywords websites are buying on Google Ads and the keywords they're ranking for in organic search.
   - [SimilarWeb](https://www.similarweb.com) - Review - Website analytics and competitive analysis platform that provides insights on traffic sources, engagement, and audience demographics.
+  - [Calven](https://calven.ai) - Review - Product marketing agents that own competitive intelligence, win/loss, positioning, and messaging, and keep battle cards current.
   - [Crayon](https://www.crayon.co) - Review - Competitive intelligence platform that tracks your competitors' digital footprints to uncover strategic insights.
   - [Owler](https://www.owler.com) - Review - Business insights platform that provides real-time news, alerts, and analysis on competitors and industry trends.
   - [Kompyte](https://www.kompyte.com) - Review - Competitor tracking software that monitors competitor websites, social media, and online ads in real-time.
