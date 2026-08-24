@@ -86,7 +86,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [MarketMuse](https://www.marketmuse.com) - [Review](https://marketingtoolslist.com/market-muse) - AI-driven platform for content research and on-page SEO optimization.
   - [Rank Math](https://rankmath.com) - [Review](https://marketingtoolslist.com/rank-math) - SEO plugin for WordPress that offers SEO suggestions while you write.
   - [Serplux](https://www.serplux.com) - [Review]([https://serplux.com/premium](https://serplux.com/premium/agent/) - All-in-one marketing toolkit for SEO, PPC, and content marketing.
-  - 
+  - [Toolsy SERP Snippet Preview](https://toolsy.pro/serp-snippet-preview/) - Review - Shows where Google cuts a title and description, measured in rendered pixel width rather than character count, for desktop and mobile separately.
 
 ### Technical SEO
 
@@ -95,6 +95,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - [Review](https://marketingtoolslist.com/google-pagespeed-insights) - Tool that analyzes a page’s content and provides suggestions for speeding up your site.
   - [GTmetrix](https://gtmetrix.com) - [Review](https://marketingtoolslist.com/gtmetrix) - Performance analysis tool that provides insights into how well your site loads and helps identify where improvements can be made.
   - [Sitebulb](https://sitebulb.com) - [Review](https://marketingtoolslist.com/sitebulb) - Desktop-based website audit tool for technical SEO with visual representations.
+  - [Toolsy Robots.txt Tester](https://toolsy.pro/robots-txt-tester/) - Review - Tests a URL against a pasted robots.txt the way a crawler resolves it: longest-match rule wins, one group per crawler. Free, runs in the browser.
 
 ### Link Building
 
@@ -120,7 +121,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [SEMrush Position Tracking](https://www.semrush.com/position-tracking/) - [Review](https://marketingtoolslist.com/semrush) - Tracks daily changes in rankings for any domain across multiple devices.
   - [SERPWatcher](https://mangools.com/serpwatcher) - [Review](https://marketingtoolslist.com/serpwatcher-by-mangools) - Rank tracking tool designed to monitor SEO progress and performance.
   - [Serplux](https://www.serplux.com) - [Review]([https://serplux.com/premium](https://serplux.com/premium/agent) - All-in-one marketing toolkit for SEO, PPC, and content marketing.
-  - 
+  - [Toolsy Ad Copy Length Checker](https://toolsy.pro/ad-copy-length/) - Review - Checks headlines and descriptions against the current character limits for Google RSA, Google Display, Meta, LinkedIn and X, counted by grapheme so an emoji counts as one character.
 
 ### SEO Analytics
 
