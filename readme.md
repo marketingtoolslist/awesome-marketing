@@ -391,6 +391,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [SimilarWeb](https://www.similarweb.com) - Review - Website analytics and competitive analysis platform that provides insights on traffic sources, engagement, and audience demographics.
   - [Crayon](https://www.crayon.co) - Review - Competitive intelligence platform that tracks your competitors' digital footprints to uncover strategic insights.
   - [Owler](https://www.owler.com) - Review - Business insights platform that provides real-time news, alerts, and analysis on competitors and industry trends.
+  - [PixelWatch](https://pixelwatch.app) - Review - Visual competitor website monitoring with daily full-page screenshots and side-by-side diffs.
   - [Kompyte](https://www.kompyte.com) - Review - Competitor tracking software that monitors competitor websites, social media, and online ads in real-time.
 
 
