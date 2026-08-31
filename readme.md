@@ -168,6 +168,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Animoto](https://animoto.com) - Review - Video creation platform that enables you to produce professional-quality videos with ease.
   - [Piktochart](https://piktochart.com) - Review - Infographic maker and presentation tool to create visually appealing content.
   - [Adobe Spark](https://spark.adobe.com) - Review - Suite of design apps for creating social graphics, web pages, and videos.
+  - [Advibly](https://advibly.com) - Review - AI ad-creative platform that generates on-brand image ads, UGC-style video ads, and talking-actor videos from brand and product context.
   - [Tellers.AI](https://tellers.ai) - Review - Turn your scripts, articles and podcasts into videos based on your own footage.
 
 ### Content Management Systems (CMS)
