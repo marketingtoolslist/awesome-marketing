@@ -37,10 +37,11 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
 ### Campaign Planning
 
-  - [CoSchedule](https://coschedule.com) - [Review](https://marketingtoolslist.com/co-schedule) - Marketing calendar and project management software to organize your marketing strategy.
-  - [Trello](https://trello.com) - [Review](https://marketingtoolslist.com/trello) - Simple, visual tool for managing projects and tasks with boards, lists, and cards.
   - [Asana](https://asana.com) - [Review](https://marketingtoolslist.com/asana) - Project management platform that helps teams orchestrate their work, from daily tasks to strategic initiatives.
+  - [CoSchedule](https://coschedule.com) - [Review](https://marketingtoolslist.com/co-schedule) - Marketing calendar and project management software to organize your marketing strategy.
+  - **[Embercore](https://github.com/embercore-labs/embercore)** — Open-source AI CMO that generates full marketing plans, brand strategy, and campaign briefs from product context using LLMs.
   - [Monday.com](https://monday.com) - [Review](https://marketingtoolslist.com/monday-com) - Work operating system to manage any team and any project with customizable workflows.
+  - [Trello](https://trello.com) - [Review](https://marketingtoolslist.com/trello) - Simple, visual tool for managing projects and tasks with boards, lists, and cards.
   - [Wrike](https://www.wrike.com) - [Review](https://marketingtoolslist.com/wrike) - Cloud-based collaboration and project management software.
 
 ### Budgeting and Forecasting
