@@ -188,6 +188,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Hemingway](http://www.hemingwayapp.com) - Review - App that makes your writing concise and clear by highlighting complex sentences.
   - [Writesonic](https://writesonic.com) - Review - AI writer and copywriting tool that creates high-converting copy for ads, blogs, and more.
   - [LogicBalls](https://logicballs.com/) - Review - An AI-powered writing tool to create any type of content and supercharge your productivity
+  - [Landing Page Checklist](https://hahaknight.github.io/landing-checklist/) - Free interactive 23-point landing page checklist with live score — hero, proof, pricing, trust and mobile checks before you ship. [Source](https://github.com/Hahaknight/landing-checklist)
 
 ### Content Curation
 
@@ -444,4 +445,5 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 - **[Awesome Lead Generation](https://github.com/dariubs/awesome-lead-generation)** - A curated list of tools, strategies, playbooks, and resources for generating, qualifying, and converting leads.
 - **Coursera Marketing Courses** - Offers courses on digital marketing, social media marketing, and more from top universities. [Visit Coursera](https://www.coursera.org/)
 - **Google Digital Garage** - Free online courses from Google on digital marketing, data and tech. [Visit Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage)
+
 
