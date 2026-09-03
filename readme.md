@@ -50,6 +50,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Adaptive Insights](https://www.adaptiveinsights.com) - [Review](https://marketingtoolslist.com/adaptive-insights-by-workday) - Financial planning and analysis software to improve business agility.
   - [Float](https://float.com) - [Review](https://marketingtoolslist.com/float) - Cash flow forecasting software for managing budgets and financials.
   - [HubSpot Forecasting Tool](https://www.hubspot.com/sales-forecast-template) - [Review](https://marketingtoolslist.com/hubspot) - Free tool to help predict future sales and revenue.
+  - [ListCraft HQ](https://listcrafthq.com) - Free suite of marketing and e-commerce calculators (marketing budget, ROAS, CAC, profit margin, break-even, LTV, CPM/CPC/CTR) - no signup required.
 
 ### Competitor and Market Analysis
 
