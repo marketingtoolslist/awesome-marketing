@@ -165,6 +165,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
   - [WordPress](https://wordpress.com) - Review - Open-source content management system (CMS) for building and managing websites and blogs.
   - [Canva](https://www.canva.com) - Review - Design tool for creating professional graphics, presentations, social media posts, and more.
+  - [Lunalisa](https://luna-lisa.art) - Review - AI creative workspace for product photos, marketing posters, and white-background listing images, with image-to-video across 13 image and 22 video models.
   - [Animoto](https://animoto.com) - Review - Video creation platform that enables you to produce professional-quality videos with ease.
   - [Piktochart](https://piktochart.com) - Review - Infographic maker and presentation tool to create visually appealing content.
   - [Adobe Spark](https://spark.adobe.com) - Review - Suite of design apps for creating social graphics, web pages, and videos.
