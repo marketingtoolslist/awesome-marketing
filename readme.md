@@ -406,11 +406,12 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
 ### Brand Monitoring
 
-  - [Mention](https://mention.com) - Review - Real-time media monitoring tool that allows businesses to track mentions of their brand across the web and social media.
-  - [Talkwalker](https://www.talkwalker.com) - Review - Social listening and analytics platform that monitors brand mentions across social, print, broadcast, and online channels.
   - [Brandwatch](https://www.brandwatch.com) - Review - Digital consumer intelligence and social media listening platform for tracking and analyzing online conversations about your brand.
+  - [LLM Pulse](https://llmpulse.ai) - Review - AI search analytics platform for tracking brand mentions, citations, sentiment, and competitor share of voice across major AI answer engines.
   - [Meltwater](https://www.meltwater.com) - Review - Media intelligence platform that provides media monitoring, social listening, and analytics to help brands manage their reputation.
+  - [Mention](https://mention.com) - Review - Real-time media monitoring tool that allows businesses to track mentions of their brand across the web and social media.
   - [Sprinklr](https://www.sprinklr.com) - Review - Unified customer experience management platform that includes social listening, engagement, and analytics tools.
+  - [Talkwalker](https://www.talkwalker.com) - Review - Social listening and analytics platform that monitors brand mentions across social, print, broadcast, and online channels.
 
 ### Digital Asset Management (DAM)
 
@@ -444,4 +445,3 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 - **[Awesome Lead Generation](https://github.com/dariubs/awesome-lead-generation)** - A curated list of tools, strategies, playbooks, and resources for generating, qualifying, and converting leads.
 - **Coursera Marketing Courses** - Offers courses on digital marketing, social media marketing, and more from top universities. [Visit Coursera](https://www.coursera.org/)
 - **Google Digital Garage** - Free online courses from Google on digital marketing, data and tech. [Visit Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage)
-
