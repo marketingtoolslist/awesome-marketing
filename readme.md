@@ -207,6 +207,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [GetResponse](https://www.getresponse.com) - Review - Email marketing software with powerful automation features, landing pages, and webinars.
   - [AWeber](https://www.aweber.com) - Review - Email marketing platform offering autoresponders, landing pages, and email automation.
   - [Django CRM](https://djangocrm.github.io/info) - [Review](https://djangocrm.github.io/info/features/overview) - Mailing CRM is an open-source platform for managing customer relationships, organizing sales activities, and sending targeted email campaigns.
+  - [MailySend](https://mailysend.com) - [Review](https://mailysend.com/compare) - Open-source email platform you host yourself, with a Resend-compatible sending API, audiences, live segments, and broadcasts with A/B testing and holdouts.
 
 
 ### Email Automation
