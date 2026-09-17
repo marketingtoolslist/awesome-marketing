@@ -130,7 +130,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [SpyFu](https://www.spyfu.com) - [Review](https://marketingtoolslist.com/spyfu) - SEO and PPC competitor research tool for discovering every keyword a competitor has bought on Google Ads.
   - [SimilarWeb](https://www.similarweb.com) - [Review](https://marketingtoolslist.com/similarweb) - Web analytics platform providing insights on website traffic, ranking, and more.
   - [OnRanko](https://onranko.com/) - [Review](https://onranko.com/premium?agent=advanced-seo-strategy-generator) Harness AI-driven agents to supercharge your SEO, boost rankings, and maximize visibility.
-
+  - [GeoBuddy](https://geobuddy.co) - Review - Free check of whether ChatGPT, Claude, Gemini and Perplexity mention your brand, with ongoing AI visibility (GEO) tracking.
 
 ## Social Media Marketing
 
