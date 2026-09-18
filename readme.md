@@ -58,6 +58,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Crayon](https://www.crayon.co) - [Review](https://marketingtoolslist.com/crayon) - Competitive intelligence platform for tracking competitors and market trends.
   - [SimilarWeb](https://www.similarweb.com) - [Review](https://marketingtoolslist.com/similarweb) - Provides website analytics, traffic insights, and competitive analysis.
   - [Owler](https://www.owler.com) - [Review](https://marketingtoolslist.com/owler) - Business insights platform that provides competitor information and company profiles.
+  - [IntelCue](https://www.intelcue.ai) - Review - AI marketing radar that monitors competitors and market sources (newsletters, blogs, news, YouTube, ads, patents, SEC filings, new subdomains) and turns what changed into weekly content opportunities, delivered inside Claude and ChatGPT.
 
 ### Marketing Mix Modeling
 
