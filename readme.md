@@ -242,6 +242,10 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
 ## Marketing Automation
 
+### Lead Generation and Data Enrichment
+
+  - [Derrick](https://derrick-app.com) - Review - B2B data enrichment that returns verified work emails, mobile numbers, firmographics, technologies in use and hiring signals from a name, a domain or a LinkedIn URL, in Google Sheets, an AI chat or a REST API.
+
 ### Lead Nurturing
 
   - [Marketo](https://www.marketo.com) - Review - Marketing automation software that offers lead management, email marketing, and analytics.
