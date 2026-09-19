@@ -169,6 +169,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Piktochart](https://piktochart.com) - Review - Infographic maker and presentation tool to create visually appealing content.
   - [Adobe Spark](https://spark.adobe.com) - Review - Suite of design apps for creating social graphics, web pages, and videos.
   - [Tellers.AI](https://tellers.ai) - Review - Turn your scripts, articles and podcasts into videos based on your own footage.
+  - [shortshort](https://www.shortshort.io) - Review - Turns one long video into vertical shorts that end on a complete sentence, reframed on the speaker and captioned word by word.
 
 ### Content Management Systems (CMS)
 
