@@ -150,6 +150,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [AdEspresso](https://adespresso.com) - Review - Tool to create, manage, and optimize Facebook and Instagram ad campaigns.
   - [Canva](https://www.canva.com) - Review - Design tool for creating visually engaging social media graphics and ad creatives.
   - [AdRoll](https://www.adroll.com) - Review - Platform for retargeting and prospecting across web, social, and email channels.
+  - [AdsTurbo](https://adsturbo.ai) - Review - AI video ad generator that creates TikTok and Meta video ads from a product link or a reference ad, with AI UGC actors and multilingual lip sync.
 
 ### Influencer Marketing
 
