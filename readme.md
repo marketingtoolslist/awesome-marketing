@@ -257,6 +257,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Automate.io](https://automate.io) - Review - Simple tool for automating repetitive tasks and connecting apps.
   - [CoSchedule](https://coschedule.com) - Review - Marketing calendar and project management software for organizing marketing activities.
   - [HubSpot](https://www.hubspot.com) - Review - CRM platform with robust marketing workflow automation capabilities.
+  - [Refix](https://refix.ai) - Review - Growth autopilot that runs product experiments, SEO, content, and ad campaigns and uses each result to decide the next play.
 
 ### Customer Journey Mapping
 
