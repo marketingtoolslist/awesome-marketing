@@ -7,6 +7,7 @@ A curated list of awesome marketing tools, books, blogs, podcasts, and resources
 This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
 ## Table of Contents
+- [ReelWorkshop](https://reelworkshop.com) - Remix your clips into short-form compilations for Reels, Shorts, TikTok, and Facebook.
 
 - Tools
   - [Marketing Strategy and Planning](#marketing-strategy-and-planning)
@@ -444,4 +445,3 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 - **[Awesome Lead Generation](https://github.com/dariubs/awesome-lead-generation)** - A curated list of tools, strategies, playbooks, and resources for generating, qualifying, and converting leads.
 - **Coursera Marketing Courses** - Offers courses on digital marketing, social media marketing, and more from top universities. [Visit Coursera](https://www.coursera.org/)
 - **Google Digital Garage** - Free online courses from Google on digital marketing, data and tech. [Visit Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage)
-
