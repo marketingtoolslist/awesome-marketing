@@ -236,6 +236,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
 ### Email Deliverability
 
+  - [Email Spam Tester](https://email-spam-tester.com/) - Review - Free inbox placement test that reports the folder at twelve mailbox providers and checks SPF, DKIM and DMARC on the delivered message.
   - [Heybounce](https://www.heybounce.io) - Review - Email verification service that checks if an email exists and detects disposable emails to reduce bounce rates.
   - [GlockApps](https://glockapps.com/) - Review - Tool to diagnose email deliverability problems.
   - [Mailtrap](https://mailtrap.io/) - Review - Platform used to test deliverability before sending and control results in one place.
