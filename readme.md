@@ -94,6 +94,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [DeepCrawl](https://www.deepcrawl.com) - [Review](https://marketingtoolslist.com/lumar-formerly-deepcrawl) - Cloud-based SEO tool for website audits and technical SEO analysis.
   - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - [Review](https://marketingtoolslist.com/google-pagespeed-insights) - Tool that analyzes a page’s content and provides suggestions for speeding up your site.
   - [GTmetrix](https://gtmetrix.com) - [Review](https://marketingtoolslist.com/gtmetrix) - Performance analysis tool that provides insights into how well your site loads and helps identify where improvements can be made.
+  - [Orkas](https://orkas.ai/use/seo-geo/?source=gh_awmarket) - Open-source, local-first desktop AI workforce; its SeoGeoAgent audits page structure, metadata, and citation clarity, then prioritizes technical SEO and GEO fixes through Commander.
   - [Sitebulb](https://sitebulb.com) - [Review](https://marketingtoolslist.com/sitebulb) - Desktop-based website audit tool for technical SEO with visual representations.
 
 ### Link Building
