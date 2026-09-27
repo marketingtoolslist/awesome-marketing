@@ -275,6 +275,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [WordStream](https://www.wordstream.com) - Review - PPC software for managing and optimizing Google Ads and Bing Ads campaigns.
   - [Marin Software](https://www.marinsoftware.com) - Review - Cross-channel advertising platform for managing SEM campaigns across search, social, and display.
   - [SEMrush](https://www.semrush.com) - Review - All-in-one marketing toolkit with PPC management features, including keyword research and competitive analysis.
+  - [Break-Even ROAS Calculator](https://dailyneedsassociation.com/tools/break-even-roas-calculator/) - [Review](https://github.com/Basswala/daily-needs-free-tools) - Free client-side calculator to determine break-even ROAS and maximum allowable acquisition cost without tracking scripts.
 
 ### Display Advertising
 
