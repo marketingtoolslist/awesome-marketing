@@ -375,6 +375,10 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [TripleLift](https://www.triplelift.com) - Review - Native advertising platform that seamlessly integrates ads into content environments.
   - [AdYouLike](https://www.adyoulike.com) - Review - Native advertising solution that delivers in-feed ads that match the look and feel of editorial content.
 
+### Digital Signage
+
+  - [BuzzBlender](https://buzzblender.com) - Review - Cloud digital signage platform for creating, scheduling, and remotely managing promotional content across physical displays.
+
 ## Market Research and Competitor Analysis
 
 ### Market Research Tools
