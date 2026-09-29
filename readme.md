@@ -305,6 +305,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
 ### Conversion Rate Optimization (CRO)
 
+  - [Leakly](https://leakly.ai/) - AI-powered conversion audits that inspect desktop and mobile visitor journeys and provide evidence-backed findings with prioritized fixes.
   - [Optimizely](https://www.optimizely.com) - Review - A/B testing and experimentation platform for optimizing digital experiences across websites and apps.
   - [VWO](https://vwo.com) - Review - Conversion optimization platform that provides A/B testing, split URL testing, and multivariate testing.
   - [Unbounce](https://unbounce.com) - Review - Landing page builder with A/B testing features to help improve conversion rates.
