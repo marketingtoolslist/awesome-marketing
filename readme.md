@@ -109,6 +109,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Yext](https://www.yext.com) - Review - Manages business listings and information across multiple directories to improve local SEO.
   - [BrightLocal](https://www.brightlocal.com) - Review - Local SEO platform for improving local search visibility and managing citations.
   - [Moz Local](https://moz.com/products/local) - Review - Tool to manage and improve your local business listings across the web.
+  - [More Good Reviews](https://moregoodreviews.com) - Review - AI reputation and review management for local businesses and agencies: automated email/SMS review asks, Google/Facebook sync and replies, widgets, and Agency white-label.
   - [Whitespark](https://whitespark.ca) - Review - Tools and services to help businesses rank better in local search results.
   - [Synup](https://synup.com) - Review - Comprehensive local marketing platform for managing business listings, reviews, and SEO.
 
