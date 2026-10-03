@@ -188,6 +188,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Hemingway](http://www.hemingwayapp.com) - Review - App that makes your writing concise and clear by highlighting complex sentences.
   - [Writesonic](https://writesonic.com) - Review - AI writer and copywriting tool that creates high-converting copy for ads, blogs, and more.
   - [LogicBalls](https://logicballs.com/) - Review - An AI-powered writing tool to create any type of content and supercharge your productivity
+  - [ClaimGate](https://teeterbot.gumroad.com/l/claimgate) - Review - Publish gate for AI-assisted marketing copy: every claim must trace to evidence you supply, your own banned-claims policy is enforced, and a missing EU AI Act Article 50 disclosure blocks the publish.
 
 ### Content Curation
 
