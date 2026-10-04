@@ -445,3 +445,4 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 - **Coursera Marketing Courses** - Offers courses on digital marketing, social media marketing, and more from top universities. [Visit Coursera](https://www.coursera.org/)
 - **Google Digital Garage** - Free online courses from Google on digital marketing, data and tech. [Visit Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage)
 
+  - [Outpost16](https://outpost16.com) - Growth signals and next actions for founders managing multiple products.
