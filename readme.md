@@ -143,6 +143,10 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [SocialBee](https://socialbee.io) - Review - Social media management platform that allows for content scheduling, recycling, and curation.
   - [ReplyZen](https://www.replyzen.ai) - Review - AI tool that automates social media comment management for Facebook and Instagram, auto replying and moderating comments.
 
+### Engagement Rate Calculators
+
+  - [FollowerBestellen.de Engagement Rate Calculator](https://followerbestellen.de/tools/engagement-rate) - Free German-language calculator for Instagram and TikTok. Uses manually entered likes and comments divided by followers, reach, or views; results with different denominators are not directly comparable. Runs in the browser without an account or profile lookup.
+
 ### Social Media Advertising
 
   - [Facebook Ads Manager](https://www.facebook.com/business/tools/ads-manager) - Review - Tool for creating, managing, and analyzing ads on Facebook and Instagram.
