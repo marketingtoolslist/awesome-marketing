@@ -425,6 +425,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
 - **"This Is Marketing: You Can't Be Seen Until You Learn to See" by Seth Godin** - Seth Godin argues that marketing isn't about the stuff you make but the stories you tell. 
 - **"Contagious: How to Build Word of Mouth in the Digital Age" by Jonah Berger** - Explains why certain things catch on, and how you can use these ideas to craft contagious content.
+- **["The Complete Guide to DV360" (in Russian)](https://aksanov.digital/books/dv360) by Marat Aksanov** - Free 175-page book on Google Display & Video 360: programmatic auction, bidding, targeting, deals, brand safety, measurement and troubleshooting. PDF, no sign-up, CC BY-ND 4.0.
 
 ## Blogs
 
