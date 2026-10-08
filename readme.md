@@ -184,6 +184,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
   - [Jasper](https://www.jasper.ai) - Review - AI-powered copywriting tool for generating marketing copy, blog posts, and more.
   - [Copy.ai](https://www.copy.ai) - Review - AI writing assistant that helps generate creative and engaging copy for various purposes.
+  - [FirstPass Hero Brief Builder](https://mmxfq.github.io/firstpass-site/hero-brief.html) - Free browser-only tool that turns six SaaS positioning inputs into an evidence-aware homepage hero brief.
   - [Grammarly](https://www.grammarly.com) - Review - Writing assistant that improves grammar, punctuation, clarity, and style.
   - [Hemingway](http://www.hemingwayapp.com) - Review - App that makes your writing concise and clear by highlighting complex sentences.
   - [Writesonic](https://writesonic.com) - Review - AI writer and copywriting tool that creates high-converting copy for ads, blogs, and more.
