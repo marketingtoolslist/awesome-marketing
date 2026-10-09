@@ -85,6 +85,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Clearscope](https://www.clearscope.io) - [Review](https://marketingtoolslist.com/clearscope) - Content optimization platform that helps improve content relevance and SEO.
   - [MarketMuse](https://www.marketmuse.com) - [Review](https://marketingtoolslist.com/market-muse) - AI-driven platform for content research and on-page SEO optimization.
   - [Rank Math](https://rankmath.com) - [Review](https://marketingtoolslist.com/rank-math) - SEO plugin for WordPress that offers SEO suggestions while you write.
+  - [SERP to Prompt Writer](https://github.com/aivrar/serp-to-prompt-writer) - Review - Free open-source Windows tool that analyzes the top-ranking pages for a keyword and generates a data-backed AI writing brief.
   - [Serplux](https://www.serplux.com) - [Review]([https://serplux.com/premium](https://serplux.com/premium/agent/) - All-in-one marketing toolkit for SEO, PPC, and content marketing.
   - 
 
