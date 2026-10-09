@@ -140,6 +140,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Buffer](https://buffer.com) - Review - Social media management tool for scheduling posts and analyzing performance across multiple accounts.
   - [Sprout Social](https://sproutsocial.com) - Review - Social media management solution with powerful analytics, engagement, and scheduling tools.
   - [Later](https://later.com) - Review - Visual content calendar for planning and scheduling Instagram, Facebook, Twitter, and Pinterest posts.
+  - [PostWire](https://postwire.io) - Review - Publishes one idea to TikTok, Instagram, YouTube, LinkedIn, Bluesky and more, writing a native version per network, with a queue and an API for automations.
   - [SocialBee](https://socialbee.io) - Review - Social media management platform that allows for content scheduling, recycling, and curation.
   - [ReplyZen](https://www.replyzen.ai) - Review - AI tool that automates social media comment management for Facebook and Instagram, auto replying and moderating comments.
 
