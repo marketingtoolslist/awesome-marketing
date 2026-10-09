@@ -196,6 +196,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Pocket](https://getpocket.com) - Review - Save articles, videos, and web pages to view later offline on any device.
   - [Curata](https://www.curata.com) - Review - Content curation software for discovering, organizing, and sharing high-quality content.
   - [BuzzSumo](https://buzzsumo.com) - Review - Tool to find the most shared content and trending topics in any niche.
+  - [WeWorkBuddy](https://weworkbuddy.com/) - Topic research for AI creators using traceable Hacker News, GitHub, and publisher sources.
 
 ## Email Marketing
 
