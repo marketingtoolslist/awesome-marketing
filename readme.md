@@ -142,6 +142,10 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Later](https://later.com) - Review - Visual content calendar for planning and scheduling Instagram, Facebook, Twitter, and Pinterest posts.
   - [SocialBee](https://socialbee.io) - Review - Social media management platform that allows for content scheduling, recycling, and curation.
   - [ReplyZen](https://www.replyzen.ai) - Review - AI tool that automates social media comment management for Facebook and Instagram, auto replying and moderating comments.
+  - [Repostit](https://repostit.io/) - Social media publishing tool that automatically detects new short-form videos and republishes them to connected channels, including Instagram Reels, YouTube Shorts, Facebook Reels, and TikTok.
+
+
+  
 
 ### Social Media Advertising
 
