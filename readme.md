@@ -96,6 +96,8 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [GTmetrix](https://gtmetrix.com) - [Review](https://marketingtoolslist.com/gtmetrix) - Performance analysis tool that provides insights into how well your site loads and helps identify where improvements can be made.
   - [Sitebulb](https://sitebulb.com) - [Review](https://marketingtoolslist.com/sitebulb) - Desktop-based website audit tool for technical SEO with visual representations.
 
+  - [TinyImage](https://tinyimage.io/) - Hosted image compression, conversion and resizing, with a public-page image analyzer for publishing performance checks. Free website allowance: 250 successful conversions/month, 20 files/batch, 28 MiB/file; uploads required for compression.
+
 ### Link Building
 
   - [Ahrefs](https://ahrefs.com) - [Review](https://marketingtoolslist.com/ahrefs) - Toolset for backlink analysis, competitor research, and link-building strategies.
