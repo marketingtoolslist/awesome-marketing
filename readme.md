@@ -411,6 +411,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Brandwatch](https://www.brandwatch.com) - Review - Digital consumer intelligence and social media listening platform for tracking and analyzing online conversations about your brand.
   - [Meltwater](https://www.meltwater.com) - Review - Media intelligence platform that provides media monitoring, social listening, and analytics to help brands manage their reputation.
   - [Sprinklr](https://www.sprinklr.com) - Review - Unified customer experience management platform that includes social listening, engagement, and analytics tools.
+  - [Proofsource](https://proofsource.co) - Review - AI visibility tool that shows which buyer questions name your brand in ChatGPT, Perplexity, Claude and Google AI Overviews, which competitors are named instead, and what to fix.
 
 ### Digital Asset Management (DAM)
 
