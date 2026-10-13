@@ -58,6 +58,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Crayon](https://www.crayon.co) - [Review](https://marketingtoolslist.com/crayon) - Competitive intelligence platform for tracking competitors and market trends.
   - [SimilarWeb](https://www.similarweb.com) - [Review](https://marketingtoolslist.com/similarweb) - Provides website analytics, traffic insights, and competitive analysis.
   - [Owler](https://www.owler.com) - [Review](https://marketingtoolslist.com/owler) - Business insights platform that provides competitor information and company profiles.
+  - [Vaneform](https://vaneform.com) - Free website traffic and SEO lookup tool with competitor comparisons and leaderboards across ~1M sites.
 
 ### Marketing Mix Modeling
 
