@@ -283,7 +283,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Google Display Network](https://ads.google.com/home/campaigns/display-ads/) - Review - Display advertising network allowing advertisers to place ads on millions of websites and apps.
   - [AdThrive](https://www.adthrive.com) - Review - Ad management service for publishers, focusing on maximizing revenue through high-quality ads.
   - [Outbrain](https://www.outbrain.com) - Review - Native advertising platform for promoting content across premium publishers through content recommendations.
-  - [AdCheckLab](https://adchecklab.com) - Review - Free browser based preflight for display and video ads: HTML5 banner validator, safe zone checker and campaign QC, with no file uploaded.
+  - [AdCheckLab](https://adchecklab.com) - Review - Browser based preflight for display and video ads: HTML5 banner validator, safe zone checker and campaign QC, with no file uploaded. Freemium: free tools, optional Pro plan.
 
 ### Retargeting
 
