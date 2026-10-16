@@ -139,7 +139,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Hootsuite](https://hootsuite.com) - Review - Platform to manage social media profiles, schedule posts, and track engagement across multiple networks.
   - [Buffer](https://buffer.com) - Review - Social media management tool for scheduling posts and analyzing performance across multiple accounts.
   - [Later](https://later.com) - Review - Visual content calendar for planning and scheduling Instagram, Facebook, Twitter, and Pinterest posts.
-  - [OpenSparta](https://opensparta.com/en) - Telegram workspace for account and proxy management, audience discovery, and engagement workflows. New access requests are paused.
+  - [OpenSparta](https://opensparta.com/en) - Telegram workspace for account and proxy management, audience discovery, and engagement workflows.
   - [ReplyZen](https://www.replyzen.ai) - Review - AI tool that automates social media comment management for Facebook and Instagram, auto replying and moderating comments.
   - [SocialBee](https://socialbee.io) - Review - Social media management platform that allows for content scheduling, recycling, and curation.
   - [Sprout Social](https://sproutsocial.com) - Review - Social media management solution with powerful analytics, engagement, and scheduling tools.
