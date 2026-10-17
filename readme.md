@@ -99,6 +99,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 ### Link Building
 
   - [Ahrefs](https://ahrefs.com) - [Review](https://marketingtoolslist.com/ahrefs) - Toolset for backlink analysis, competitor research, and link-building strategies.
+  - [BacklinkGenie](https://backlinkgenie.com) - Review - AI outreach agent that finds blog posts where your product fits, verifies the editor and sends a pitch for that post.
   - [BuzzStream](https://www.buzzstream.com) - [Review](https://marketingtoolslist.com/buzz-stream) - Outreach platform that helps with link building and managing relationships with influencers.
   - [Pitchbox](https://pitchbox.com) - [Review](https://marketingtoolslist.com/pitchbox) - Outreach and link building software that automates the process of connecting with influencers.
   - [Majestic](https://majestic.com) - [Review](https://marketingtoolslist.com/%20majestic-seo) - Backlink analysis tool that provides comprehensive link intelligence data.
