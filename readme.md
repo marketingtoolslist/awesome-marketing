@@ -163,6 +163,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
 ### Content Creation
 
+  - [VideoGen](https://videogen.io/) - Creates editable videos from scripts with narration, visuals, and captions; includes an API for automated production.
   - [WordPress](https://wordpress.com) - Review - Open-source content management system (CMS) for building and managing websites and blogs.
   - [Canva](https://www.canva.com) - Review - Design tool for creating professional graphics, presentations, social media posts, and more.
   - [Animoto](https://animoto.com) - Review - Video creation platform that enables you to produce professional-quality videos with ease.
