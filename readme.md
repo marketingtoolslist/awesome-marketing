@@ -384,6 +384,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Toluna](https://www.toluna.com) - Review - Real-time digital consumer insights platform for conducting surveys and gathering consumer feedback.
   - [Qualtrics](https://www.qualtrics.com) - Review - Experience management platform that helps organizations manage customer, employee, product, and brand experiences.
   - [Google Surveys](https://surveys.google.com) - Review - Simple, fast survey platform by Google that provides quick insights through online surveys.
+  - [Pulse](https://pulsecorp.co) - AI-moderated market research platform that runs customer interviews at scale.
 
 ### Competitor Analysis
 
