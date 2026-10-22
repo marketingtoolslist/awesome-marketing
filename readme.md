@@ -93,6 +93,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/) - [Review](https://marketingtoolslist.com/screaming-frog-seo-spider) - Website crawler that helps improve onsite SEO by analyzing website elements.
   - [DeepCrawl](https://www.deepcrawl.com) - [Review](https://marketingtoolslist.com/lumar-formerly-deepcrawl) - Cloud-based SEO tool for website audits and technical SEO analysis.
   - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - [Review](https://marketingtoolslist.com/google-pagespeed-insights) - Tool that analyzes a page’s content and provides suggestions for speeding up your site.
+  - [BrandTactics Technical & Accessibility Auditor](https://brandtactics.co.il/accessibility-generator/) - Automated technical SEO, WCAG 2.1 AA, and web compliance audit tool.
   - [GTmetrix](https://gtmetrix.com) - [Review](https://marketingtoolslist.com/gtmetrix) - Performance analysis tool that provides insights into how well your site loads and helps identify where improvements can be made.
   - [Sitebulb](https://sitebulb.com) - [Review](https://marketingtoolslist.com/sitebulb) - Desktop-based website audit tool for technical SEO with visual representations.
 
