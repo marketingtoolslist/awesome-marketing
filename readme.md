@@ -445,3 +445,5 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 - **Coursera Marketing Courses** - Offers courses on digital marketing, social media marketing, and more from top universities. [Visit Coursera](https://www.coursera.org/)
 - **Google Digital Garage** - Free online courses from Google on digital marketing, data and tech. [Visit Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage)
 
+
+- **[WhatsApp Lead Recovery Kit](https://github.com/testimonioslr-eng/whatsapp-lead-recovery-kit)** - English-language checklist and CSV templates for logging WhatsApp inquiries, first-response times and lost reasons (MIT license).
