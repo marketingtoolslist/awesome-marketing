@@ -77,6 +77,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Ubersuggest](https://neilpatel.com/ubersuggest/) - [Review](https://marketingtoolslist.com/ubersuggest-by-neil-patel) - Free tool for generating new keyword ideas and analyzing SEO metrics.
   - [KeywordTool.io](https://keywordtool.io) - [Review](https://marketingtoolslist.com/keyword-tool) - Tool for finding long-tail keywords for SEO, PPC, and content creation.
   - [Serplux](https://www.serplux.com) - [Review]([https://serplux.com/premium](https://serplux.com/premium/agent/keyword-analyser) - All-in-one marketing toolkit for SEO, PPC, and content marketing.
+  - [Mode VC WebMCP & Backlink Lens](https://modevc.com/tools/webmcp-backlink-lens) - Open-source Manifest V3 Chrome Extension and W3C WebMCP inspector for auditing dofollow/nofollow links and `.well-known/mcp.json` manifests.
     
 ### On-Page SEO
 
