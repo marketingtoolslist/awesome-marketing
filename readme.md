@@ -124,6 +124,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
 ### SEO Analytics
 
+  - [CrakSEO Search Console MCP](https://docs.crakseo.com/mcp-servers/search-console) - Free remote MCP access to owned-site Google Search Console and Bing Webmaster data; OAuth or an API key required.
   - [Google Search Console](https://search.google.com/search-console) - [Review](https://marketingtoolslist.com/google-search-console) - Free tool by Google that helps monitor and maintain your site's presence in Google Search results.
   - [SEMrush](https://www.semrush.com/analytics/) - [Review](https://marketingtoolslist.com/semrush) - Comprehensive SEO analytics tool for tracking performance and analyzing competitors.
   - [Ahrefs](https://ahrefs.com/analytics) - [Review](https://marketingtoolslist.com/ahrefs) - Analytics toolset that provides insights into website performance, traffic, and keyword rankings.
