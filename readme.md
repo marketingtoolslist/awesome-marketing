@@ -53,11 +53,12 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
 ### Competitor and Market Analysis
 
-  - [Statista](https://www.statista.com) - [Review](https://marketingtoolslist.com/statista) - Online statistics, market research, and business intelligence portal.
-  - [IBISWorld](https://www.ibisworld.com) - [Review](https://marketingtoolslist.com/ibisworld) - Industry market research reports and data for strategic planning.
   - [Crayon](https://www.crayon.co) - [Review](https://marketingtoolslist.com/crayon) - Competitive intelligence platform for tracking competitors and market trends.
-  - [SimilarWeb](https://www.similarweb.com) - [Review](https://marketingtoolslist.com/similarweb) - Provides website analytics, traffic insights, and competitive analysis.
+  - [FlashCrafter Growth Brief](https://www.flashcrafter.ai/growth-brief) - Review - AI-assisted local-market, competitor, and online-visibility assessments for local-service business owners. One initial report is free; an account is required, with no card needed.
+  - [IBISWorld](https://www.ibisworld.com) - [Review](https://marketingtoolslist.com/ibisworld) - Industry market research reports and data for strategic planning.
   - [Owler](https://www.owler.com) - [Review](https://marketingtoolslist.com/owler) - Business insights platform that provides competitor information and company profiles.
+  - [SimilarWeb](https://www.similarweb.com) - [Review](https://marketingtoolslist.com/similarweb) - Provides website analytics, traffic insights, and competitive analysis.
+  - [Statista](https://www.statista.com) - [Review](https://marketingtoolslist.com/statista) - Online statistics, market research, and business intelligence portal.
 
 ### Marketing Mix Modeling
 
