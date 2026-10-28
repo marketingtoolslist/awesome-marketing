@@ -271,6 +271,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 ### PPC Management
 
   - [Google Ads](https://ads.google.com) - Review - Online advertising platform for creating ads that appear on Google Search, YouTube, and other Google properties.
+  - [AdeptAds Google Ads Campaign Brief Builder](https://www.adeptads.ai/tools/google-ads-campaign-brief?utm_source=github&utm_medium=community&utm_campaign=github-awesome-pr) - Free AI-guided tool from AdeptAds that builds a complete Google Ads campaign brief (market research, keywords, ad groups) in minutes, no credit card required.
   - [Bing Ads](https://ads.microsoft.com) - Review - Paid search advertising on the Bing search engine, offering similar features to Google Ads.
   - [WordStream](https://www.wordstream.com) - Review - PPC software for managing and optimizing Google Ads and Bing Ads campaigns.
   - [Marin Software](https://www.marinsoftware.com) - Review - Cross-channel advertising platform for managing SEM campaigns across search, social, and display.
