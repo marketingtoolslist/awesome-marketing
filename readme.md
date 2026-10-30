@@ -392,6 +392,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Crayon](https://www.crayon.co) - Review - Competitive intelligence platform that tracks your competitors' digital footprints to uncover strategic insights.
   - [Owler](https://www.owler.com) - Review - Business insights platform that provides real-time news, alerts, and analysis on competitors and industry trends.
   - [Kompyte](https://www.kompyte.com) - Review - Competitor tracking software that monitors competitor websites, social media, and online ads in real-time.
+  - [EarlyLore](https://earlylore.com) - Review - Research workspace for founders to study real SaaS products, revenue signals, and competitor changes before building.
 
 
 ## Brand Management
