@@ -158,6 +158,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [AspireIQ](https://www.aspireiq.com) - Review - Influencer marketing software to help brands connect with creators.
   - [Traackr](https://www.traackr.com) - Review - Data-driven influencer marketing platform for building relationships and managing campaigns.
   - [Grin](https://www.grin.co) - Review - Influencer marketing software that helps brands manage influencer relationships at scale.
+  - [distribution.tech](https://distribution.tech) - Review - Agent that finds the X (Twitter) creators your buyers follow, prices each sponsored post, books after your approval and returns proof of every post.
 
 ## Content Marketing
 
