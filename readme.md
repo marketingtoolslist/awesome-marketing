@@ -158,6 +158,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [AspireIQ](https://www.aspireiq.com) - Review - Influencer marketing software to help brands connect with creators.
   - [Traackr](https://www.traackr.com) - Review - Data-driven influencer marketing platform for building relationships and managing campaigns.
   - [Grin](https://www.grin.co) - Review - Influencer marketing software that helps brands manage influencer relationships at scale.
+  - [UpGrow Influencer Search](https://www.upgrow.com/free-instagram-tools/instagram-influencer-search) - Free tool to find Instagram influencers by niche and location.
 
 ## Content Marketing
 
