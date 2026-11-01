@@ -95,6 +95,8 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - [Review](https://marketingtoolslist.com/google-pagespeed-insights) - Tool that analyzes a page’s content and provides suggestions for speeding up your site.
   - [GTmetrix](https://gtmetrix.com) - [Review](https://marketingtoolslist.com/gtmetrix) - Performance analysis tool that provides insights into how well your site loads and helps identify where improvements can be made.
   - [Sitebulb](https://sitebulb.com) - [Review](https://marketingtoolslist.com/sitebulb) - Desktop-based website audit tool for technical SEO with visual representations.
+  - [SEOAudit](https://seoaudit.com.ua) - Review - Technical website audit and SEO diagnostic suite for crawlability, performance, security, and search engine indexing analysis.
+  - [SEOCheck-AI](https://seocheck-ai.com) - Review - Autonomous technical SEO analyzer and Core Web Vitals diagnostic platform powered by intelligent crawlers.
 
 ### Link Building
 
@@ -196,6 +198,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Pocket](https://getpocket.com) - Review - Save articles, videos, and web pages to view later offline on any device.
   - [Curata](https://www.curata.com) - Review - Content curation software for discovering, organizing, and sharing high-quality content.
   - [BuzzSumo](https://buzzsumo.com) - Review - Tool to find the most shared content and trending topics in any niche.
+  - [ListAIHub](https://listaihub.com) - Review - Curated directory and discovery engine for AI tools, LLM models, and autonomous agent frameworks.
 
 ## Email Marketing
 
