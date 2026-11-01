@@ -166,7 +166,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [WordPress](https://wordpress.com) - Review - Open-source content management system (CMS) for building and managing websites and blogs.
   - [Canva](https://www.canva.com) - Review - Design tool for creating professional graphics, presentations, social media posts, and more.
   - [Animoto](https://animoto.com) - Review - Video creation platform that enables you to produce professional-quality videos with ease.
-  - [EverAlice AI](https://everalice.studio) - Review - AI studio that turns one artwork into a marketplace-ready listing (copy, tags, mockups, print files) for Etsy, Shopify and Gumroad sellers.
+  - [EverAlice AI](https://everalice.studio) - Review - All-in-one AI studio for Etsy and digital-product sellers: turns one artwork or idea into listing copy and SEO tags for 25 marketplaces, studio mockups, print-ready files, listing videos, promo images and captions, and a customer delivery ZIP.
   - [Piktochart](https://piktochart.com) - Review - Infographic maker and presentation tool to create visually appealing content.
   - [Adobe Spark](https://spark.adobe.com) - Review - Suite of design apps for creating social graphics, web pages, and videos.
   - [Tellers.AI](https://tellers.ai) - Review - Turn your scripts, articles and podcasts into videos based on your own footage.
