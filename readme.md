@@ -90,6 +90,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
 ### Technical SEO
 
+  - [Akii: SEO & AI Search Optimizer](https://github.com/akii-technologies-ltd/akii-seo-ai-search-optimizer) - Free, MIT-licensed Claude Code plugin for SEO audits, content plans, schema markup and link checks.
   - [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/) - [Review](https://marketingtoolslist.com/screaming-frog-seo-spider) - Website crawler that helps improve onsite SEO by analyzing website elements.
   - [DeepCrawl](https://www.deepcrawl.com) - [Review](https://marketingtoolslist.com/lumar-formerly-deepcrawl) - Cloud-based SEO tool for website audits and technical SEO analysis.
   - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - [Review](https://marketingtoolslist.com/google-pagespeed-insights) - Tool that analyzes a page’s content and provides suggestions for speeding up your site.
@@ -138,6 +139,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
   - [Hootsuite](https://hootsuite.com) - Review - Platform to manage social media profiles, schedule posts, and track engagement across multiple networks.
   - [Buffer](https://buffer.com) - Review - Social media management tool for scheduling posts and analyzing performance across multiple accounts.
+  - [Revenue Scout](https://revenuescout.ai/) - Finds sales leads across seven social platforms. You review the draft replies and post them yourself.
   - [Sprout Social](https://sproutsocial.com) - Review - Social media management solution with powerful analytics, engagement, and scheduling tools.
   - [Later](https://later.com) - Review - Visual content calendar for planning and scheduling Instagram, Facebook, Twitter, and Pinterest posts.
   - [SocialBee](https://socialbee.io) - Review - Social media management platform that allows for content scheduling, recycling, and curation.
@@ -362,6 +364,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 ### Affiliate Marketing
 
   - [CJ Affiliate](https://www.cj.com) - Review - One of the largest affiliate marketing networks, connecting advertisers with a vast network of publishers.
+  - [Marquorum](https://marquorum.com/) - A creator affiliate programme for Akii's apps. Get referral links and track your sales. See your commissions and vote on new launches.
   - [ShareASale](https://www.shareasale.com) - Review - Affiliate marketing network offering a wide range of products for publishers to promote.
   - [Refersion](https://www.refersion.com) - Review - Affiliate and influencer marketing platform that tracks and manages partner programs.
   - [Tapfiliate](https://tapfiliate.com) - Review - Cloud-based affiliate marketing software for managing and tracking affiliate relationships.
