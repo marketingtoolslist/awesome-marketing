@@ -137,6 +137,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 ### Social Media Management
 
   - [Hootsuite](https://hootsuite.com) - Review - Platform to manage social media profiles, schedule posts, and track engagement across multiple networks.
+  - [iFollowTracker](https://www.ifollowtracker.com/) - Review - Public Instagram Following/unfollow research tool that saves baselines and reports later changes on accounts you research.
   - [Buffer](https://buffer.com) - Review - Social media management tool for scheduling posts and analyzing performance across multiple accounts.
   - [Sprout Social](https://sproutsocial.com) - Review - Social media management solution with powerful analytics, engagement, and scheduling tools.
   - [Later](https://later.com) - Review - Visual content calendar for planning and scheduling Instagram, Facebook, Twitter, and Pinterest posts.
