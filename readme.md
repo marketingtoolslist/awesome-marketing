@@ -375,6 +375,10 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [TripleLift](https://www.triplelift.com) - Review - Native advertising platform that seamlessly integrates ads into content environments.
   - [AdYouLike](https://www.adyoulike.com) - Review - Native advertising solution that delivers in-feed ads that match the look and feel of editorial content.
 
+### Sponsorship Advertising
+
+  - [Telegram Sponsorship CPM Calculator](https://thinkpad2050.github.io/telegram-sponsorship-cpm-calculator/) - Free browser-based tool for comparing a quoted Telegram channel sponsorship price with median post views and estimating the implied CPM. [MIT-licensed source](https://github.com/thinkpad2050/telegram-sponsorship-cpm-calculator).
+
 ## Market Research and Competitor Analysis
 
 ### Market Research Tools
