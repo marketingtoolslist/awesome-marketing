@@ -302,6 +302,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Hotjar](https://www.hotjar.com) - Review - Behavior analytics and user feedback service that helps you understand how users interact with your site.
   - [Crazy Egg](https://www.crazyegg.com) - Review - Visual analytics tool offering heatmaps, scroll maps, and A/B testing to improve website performance.
   - [Piwik PRO](https://piwik.pro) - Review - Privacy-focused analytics suite that offers detailed insights into website visitors' behavior.
+  - [QRGlo](https://qrglo.com) - Review - Free QR code generator with dynamic codes and scan tracking for print campaigns; codes never expire.
 
 ### Conversion Rate Optimization (CRO)
 
