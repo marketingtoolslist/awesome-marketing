@@ -348,6 +348,10 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Help Scout](https://www.helpscout.com) - Review - Customer service platform designed to help small businesses manage email, live chat, and knowledge base interactions.
   - [NeetoDesk](https://neeto.com/neetodesk) - Review - A price-competitive customer service software to help companies provide support using email.
 
+### AI-Powered Sales Outreach
+
+  - [mach-gtm-mcp](https://github.com/verma6uc/mach-gtm-mcp) - Open-source MCP server. Five outbound sales helpers for B2B teams: build an ICP, draft a cold email or LinkedIn message from a buying signal you provide, get a prospect research checklist, score a lead 0-100 against your ICP, and lay out a multi-touch sequence. Works only from what you give it; it does not look anything up or send anything. Install: `npx -y github:verma6uc/mach-gtm-mcp`. License: MIT.
+
 
 ## Advertising and Media Buying
 
