@@ -200,6 +200,8 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [There Are Four Kinds of Keyword Research; Make Sure You’re Doing the Right One(s)](https://sparktoro.com/blog/there-are-four-kinds-of-keyword-research-make-sure-youre-doing-the-right-ones/)
 - [Free Backlink Sources](https://github.com/sherotree/free-backlink-sources) - Curated list of 75+ free/freemium product launch directories and backlink sources (quality tier + DR) maintained by [@sherotree](https://github.com/sherotree). Interactive version on [UWarp](https://www.uwarp.design/launch)
 
+- [GoAnyAPI](https://goanyapi.com) - SEO data API and MCP server for AI agents: keyword difficulty, suggestions and search volume, backlinks, domain rating and website traffic (⭐)
+
 # Startups & Getting Started
 
 - [Early Adopter Marketing – How startups get their first users](https://www.kevin-indig.com/blog/early-adopter-marketing-startups-get-first-users/)
