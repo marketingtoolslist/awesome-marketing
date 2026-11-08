@@ -145,6 +145,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
 ### Social Media Advertising
 
+  - [AdVariq](https://advariq.com) - Review - AI-powered ad creative and banner generator for solo founders, marketers, and startups. (Freemium: Free trial available, paid plans start at 29 USD/month)
   - [Facebook Ads Manager](https://www.facebook.com/business/tools/ads-manager) - Review - Tool for creating, managing, and analyzing ads on Facebook and Instagram.
   - [Google Ads](https://ads.google.com) - Review - Online advertising platform for creating ads that appear on Google Search and other Google properties.
   - [AdEspresso](https://adespresso.com) - Review - Tool to create, manage, and optimize Facebook and Instagram ad campaigns.
