@@ -406,7 +406,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
 ### Brand Monitoring
 
-  - [Arcmira: YouTube Transcript Search](https://arcmira.com/) - [API docs](https://arcmira.com/docs) - Searches indexed YouTube transcripts for brand mentions, sponsors and recommendations with timestamped source passages.
+  - [Arcmira: YouTube Transcript Search](https://arcmira.com/) - [API docs](https://arcmira.com/docs) - YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers.
   - [Brandwatch](https://www.brandwatch.com) - Review - Digital consumer intelligence and social media listening platform for tracking and analyzing online conversations about your brand.
   - [Meltwater](https://www.meltwater.com) - Review - Media intelligence platform that provides media monitoring, social listening, and analytics to help brands manage their reputation.
   - [Mention](https://mention.com) - Review - Real-time media monitoring tool that allows businesses to track mentions of their brand across the web and social media.
