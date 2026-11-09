@@ -50,6 +50,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Adaptive Insights](https://www.adaptiveinsights.com) - [Review](https://marketingtoolslist.com/adaptive-insights-by-workday) - Financial planning and analysis software to improve business agility.
   - [Float](https://float.com) - [Review](https://marketingtoolslist.com/float) - Cash flow forecasting software for managing budgets and financials.
   - [HubSpot Forecasting Tool](https://www.hubspot.com/sales-forecast-template) - [Review](https://marketingtoolslist.com/hubspot) - Free tool to help predict future sales and revenue.
+  - [SmartBizCalc](https://smartbizcalc.com) - Free collection of 700+ business calculators for budgeting, pricing, and financial planning — break-even analysis, payroll tax, S-Corp vs LLC comparison, startup costs, and more. No sign-up required.
 
 ### Competitor and Market Analysis
 
