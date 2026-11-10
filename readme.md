@@ -188,6 +188,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Hemingway](http://www.hemingwayapp.com) - Review - App that makes your writing concise and clear by highlighting complex sentences.
   - [Writesonic](https://writesonic.com) - Review - AI writer and copywriting tool that creates high-converting copy for ads, blogs, and more.
   - [LogicBalls](https://logicballs.com/) - Review - An AI-powered writing tool to create any type of content and supercharge your productivity
+  - [Prompt Generator](https://trypromptgenerator.com) - Review - Free prompt generator that writes prompts in the syntax of the AI tool you pick: ChatGPT, Claude, Gemini, Midjourney, Nano Banana, Veo, Sora and more. 10 free prompts a day without an account.
 
 ### Content Curation
 
