@@ -56,6 +56,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Statista](https://www.statista.com) - [Review](https://marketingtoolslist.com/statista) - Online statistics, market research, and business intelligence portal.
   - [IBISWorld](https://www.ibisworld.com) - [Review](https://marketingtoolslist.com/ibisworld) - Industry market research reports and data for strategic planning.
   - [Crayon](https://www.crayon.co) - [Review](https://marketingtoolslist.com/crayon) - Competitive intelligence platform for tracking competitors and market trends.
+  - [FlashData](https://flashdata.dev/) - Google search, news, shopping and place data plus YouTube search, metadata and transcripts for market and content research; API key and paid credits required.
   - [SimilarWeb](https://www.similarweb.com) - [Review](https://marketingtoolslist.com/similarweb) - Provides website analytics, traffic insights, and competitive analysis.
   - [Owler](https://www.owler.com) - [Review](https://marketingtoolslist.com/owler) - Business insights platform that provides competitor information and company profiles.
 
