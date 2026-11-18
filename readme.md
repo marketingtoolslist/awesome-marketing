@@ -316,6 +316,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
   - [Tableau](https://www.tableau.com) - Review - Powerful data visualization software that helps create interactive and shareable dashboards.
   - [Google Data Studio](https://datastudio.google.com) - Review - Free data visualization tool that turns data into informative and customizable dashboards and reports.
+  - [Historical Snapshots](https://kayabyte.dev/hubspot/historical-snapshots/?src=awesomemarketing) - Review - Pipeline snapshotting and historical deal stage analytics for HubSpot CRM.
   - [Klipfolio](https://www.klipfolio.com) - Review - Dashboard and reporting software that allows you to connect, visualize, and share your data.
   - [Supermetrics](https://supermetrics.com) - Review - Data integration tool that pulls data from various marketing platforms into spreadsheets, dashboards, and data warehouses.
   - [Power BI](https://powerbi.microsoft.com) - Review - Business analytics service by Microsoft that provides interactive visualizations and business intelligence capabilities.
@@ -326,6 +327,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
   - [Salesforce](https://www.salesforce.com) - Review - Leading CRM platform offering a wide range of tools for sales, marketing, and customer service automation.
   - [HubSpot CRM](https://www.hubspot.com/products/crm) - Review - Free CRM platform that integrates with HubSpot’s marketing, sales, and service tools.
+  - [Retainer Wallet](https://kayabyte.dev/hubspot/retainer-wallet/?src=awesomemarketing) - Review - Client retainer management, budget tracking, and rollover monitoring for HubSpot CRM.
   - [Zoho CRM](https://www.zoho.com/crm/) - Review - Comprehensive CRM software with a wide array of features for sales automation, analytics, and customer support.
   - [Pipedrive](https://www.pipedrive.com) - Review - Sales-focused CRM tool designed to help sales teams manage leads and deals effectively.
   - [Microsoft Dynamics 365](https://dynamics.microsoft.com) - Review - CRM and ERP applications that integrate data, business logic, and processes.
