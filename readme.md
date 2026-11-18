@@ -139,7 +139,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
   - [Hootsuite](https://hootsuite.com) - Review - Platform to manage social media profiles, schedule posts, and track engagement across multiple networks.
   - [Buffer](https://buffer.com) - Review - Social media management tool for scheduling posts and analyzing performance across multiple accounts.
-  - [Revenue Scout](https://revenuescout.ai/) - Finds sales leads across seven social platforms. You review the draft replies and post them yourself.
+  - [Revenue Scout](https://revenuescout.ai/) - Agentic Coworker for sales prospecting on seven social platforms. Scout uses reply requests and related results to explore better search phrases. You review and post the drafts yourself.
   - [Sprout Social](https://sproutsocial.com) - Review - Social media management solution with powerful analytics, engagement, and scheduling tools.
   - [Later](https://later.com) - Review - Visual content calendar for planning and scheduling Instagram, Facebook, Twitter, and Pinterest posts.
   - [SocialBee](https://socialbee.io) - Review - Social media management platform that allows for content scheduling, recycling, and curation.
@@ -364,7 +364,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 ### Affiliate Marketing
 
   - [CJ Affiliate](https://www.cj.com) - Review - One of the largest affiliate marketing networks, connecting advertisers with a vast network of publishers.
-  - [Marquorum](https://marquorum.com/) - A creator affiliate programme for Akii's apps. Get referral links and track your sales. See your commissions and vote on new launches.
+  - [Marquorum](https://marquorum.com/) - Free affiliate network for creators promoting Agentic Services through Affiliate Offers. Get referral links, track sales and commissions, and vote on future launches.
   - [ShareASale](https://www.shareasale.com) - Review - Affiliate marketing network offering a wide range of products for publishers to promote.
   - [Refersion](https://www.refersion.com) - Review - Affiliate and influencer marketing platform that tracks and manages partner programs.
   - [Tapfiliate](https://tapfiliate.com) - Review - Cloud-based affiliate marketing software for managing and tracking affiliate relationships.
