@@ -147,6 +147,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
   - [Facebook Ads Manager](https://www.facebook.com/business/tools/ads-manager) - Review - Tool for creating, managing, and analyzing ads on Facebook and Instagram.
   - [Google Ads](https://ads.google.com) - Review - Online advertising platform for creating ads that appear on Google Search and other Google properties.
+  - [Starpop](https://starpop.ai) - Review - AI ad agent that researches customer language and winning ads, then generates UGC, static and video ads for e-commerce, apps and SaaS.
   - [AdEspresso](https://adespresso.com) - Review - Tool to create, manage, and optimize Facebook and Instagram ad campaigns.
   - [Canva](https://www.canva.com) - Review - Design tool for creating visually engaging social media graphics and ad creatives.
   - [AdRoll](https://www.adroll.com) - Review - Platform for retargeting and prospecting across web, social, and email channels.
