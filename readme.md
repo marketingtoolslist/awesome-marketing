@@ -154,6 +154,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 ### Influencer Marketing
 
   - [BuzzSumo](https://buzzsumo.com) - Review - Tool to find influencers in your niche by analyzing the most shared content.
+  - [nCircle](https://ncircle.app/) - Runs nano creator campaigns for brands, from creator selection and draft review to reporting on published posts.
   - [Upfluence](https://www.upfluence.com) - Review - Influencer marketing platform for discovering and managing influencer campaigns.
   - [AspireIQ](https://www.aspireiq.com) - Review - Influencer marketing software to help brands connect with creators.
   - [Traackr](https://www.traackr.com) - Review - Data-driven influencer marketing platform for building relationships and managing campaigns.
