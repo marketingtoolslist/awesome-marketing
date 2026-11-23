@@ -194,6 +194,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Feedly](https://feedly.com) - Review - Content aggregator and RSS reader for organizing and reading content from your favorite sources.
   - [Scoop.it](https://www.scoop.it) - Review - Content curation tool for discovering and sharing engaging content.
   - [Pocket](https://getpocket.com) - Review - Save articles, videos, and web pages to view later offline on any device.
+  - [ContHunt](https://conthunt.app) - Review - AI-powered research and analysis of short-form videos across TikTok, Instagram Reels, and YouTube Shorts.
   - [Curata](https://www.curata.com) - Review - Content curation software for discovering, organizing, and sharing high-quality content.
   - [BuzzSumo](https://buzzsumo.com) - Review - Tool to find the most shared content and trending topics in any niche.
 
