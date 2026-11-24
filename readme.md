@@ -38,7 +38,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 ### Campaign Planning
 
   - [CoSchedule](https://coschedule.com) - [Review](https://marketingtoolslist.com/co-schedule) - Marketing calendar and project management software to organize your marketing strategy.
-  - [LaunchPal](https://launchpal.app) - Review - A 30-day launch plan for new apps, one step a day, with visits and sign-ups by source after each step.
+  - [LaunchPal](https://launchpal.app) - Review - Every next step for a newly published app, from the first fixes to where its users ask for help, with visits and sign-ups by source.
   - [Trello](https://trello.com) - [Review](https://marketingtoolslist.com/trello) - Simple, visual tool for managing projects and tasks with boards, lists, and cards.
   - [Asana](https://asana.com) - [Review](https://marketingtoolslist.com/asana) - Project management platform that helps teams orchestrate their work, from daily tasks to strategic initiatives.
   - [Monday.com](https://monday.com) - [Review](https://marketingtoolslist.com/monday-com) - Work operating system to manage any team and any project with customizable workflows.
