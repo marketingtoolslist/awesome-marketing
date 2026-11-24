@@ -38,6 +38,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 ### Campaign Planning
 
   - [CoSchedule](https://coschedule.com) - [Review](https://marketingtoolslist.com/co-schedule) - Marketing calendar and project management software to organize your marketing strategy.
+  - [LaunchPal](https://launchpal.app) - Review - Every next step for a newly published app, from the first fixes to where its users ask for help, with visits and sign-ups by source.
   - [Trello](https://trello.com) - [Review](https://marketingtoolslist.com/trello) - Simple, visual tool for managing projects and tasks with boards, lists, and cards.
   - [Asana](https://asana.com) - [Review](https://marketingtoolslist.com/asana) - Project management platform that helps teams orchestrate their work, from daily tasks to strategic initiatives.
   - [Monday.com](https://monday.com) - [Review](https://marketingtoolslist.com/monday-com) - Work operating system to manage any team and any project with customizable workflows.
@@ -238,6 +239,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
   - [Heybounce](https://www.heybounce.io) - Review - Email verification service that checks if an email exists and detects disposable emails to reduce bounce rates.
   - [GlockApps](https://glockapps.com/) - Review - Tool to diagnose email deliverability problems.
+  - [LaunchPal SPF Checker](https://launchpal.app/tools/spf-checker) - Review - Free check that a domain's SPF record lists every service that sends email for it.
   - [Mailtrap](https://mailtrap.io/) - Review - Platform used to test deliverability before sending and control results in one place.
 
 ## Marketing Automation
