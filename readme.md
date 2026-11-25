@@ -374,6 +374,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Nativo](https://www.nativo.com) - Review - Platform for creating, distributing, and optimizing native ads across multiple channels.
   - [TripleLift](https://www.triplelift.com) - Review - Native advertising platform that seamlessly integrates ads into content environments.
   - [AdYouLike](https://www.adyoulike.com) - Review - Native advertising solution that delivers in-feed ads that match the look and feel of editorial content.
+  - [AIRewards](https://www.airewards.tech) - AI-native ad network for placing sponsored text ads inside AI chat assistants and developer coding tools.
 
 ## Market Research and Competitor Analysis
 
