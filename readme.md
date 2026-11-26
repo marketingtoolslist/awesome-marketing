@@ -239,6 +239,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Heybounce](https://www.heybounce.io) - Review - Email verification service that checks if an email exists and detects disposable emails to reduce bounce rates.
   - [GlockApps](https://glockapps.com/) - Review - Tool to diagnose email deliverability problems.
   - [Mailtrap](https://mailtrap.io/) - Review - Platform used to test deliverability before sending and control results in one place.
+  - [InboxShield](https://inbox.shipbastion.com/) - Review - Free zero-login email deliverability and DNS authentication workbench checking recursive SPF (10-lookup flattener), 24 DKIM selectors, DMARC policy simulation, MTA-STS, TLS-RPT, DANE, BIMI, and 5 DNSBL blacklists.
 
 ## Marketing Automation
 
