@@ -430,6 +430,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
 - [The Marketing Blog](https://blog.marketingtoolslist.com) - A blog on Marketing Tools reviews
 - [Awesome Marketing Blog](https://awesome-marketing.com) - Find anything about marketing
+- [CreoArt AI Product Photography](https://creoart.app/tools/ai-product-photography) - Pay-as-you-go private AI product photography studio and browser-local PSD layer editor for e-commerce teams.
 - **HubSpot Blog** - Offers information on inbound marketing, sales, and customer service strategies. [Visit Blog](https://blog.hubspot.com/)
 - **Neil Patel's Blog** - Covers a range of digital marketing topics with actionable tips and guides. [Visit Blog](https://neilpatel.com/blog/)
 
