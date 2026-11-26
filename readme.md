@@ -274,6 +274,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Bing Ads](https://ads.microsoft.com) - Review - Paid search advertising on the Bing search engine, offering similar features to Google Ads.
   - [WordStream](https://www.wordstream.com) - Review - PPC software for managing and optimizing Google Ads and Bing Ads campaigns.
   - [Marin Software](https://www.marinsoftware.com) - Review - Cross-channel advertising platform for managing SEM campaigns across search, social, and display.
+  - [Qonvert Marketing AI](https://qonvert.ai/services/google-ads?utm_source=awesome_marketing&utm_medium=directory&utm_campaign=google_ads_mcp) - Reviews Google Ads spend, recorded conversions, and search terms to propose campaign improvements for human approval. Qonvert Connect supplies authorized access for supported assistants via MCP.
   - [SEMrush](https://www.semrush.com) - Review - All-in-one marketing toolkit with PPC management features, including keyword research and competitive analysis.
 
 ### Display Advertising
