@@ -49,8 +49,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Allocadia](https://allocadia.com) - [Review](https://marketingtoolslist.com/allocadia) - Marketing performance management software that helps with budgeting and planning.
   - [Adaptive Insights](https://www.adaptiveinsights.com) - [Review](https://marketingtoolslist.com/adaptive-insights-by-workday) - Financial planning and analysis software to improve business agility.
   - [Float](https://float.com) - [Review](https://marketingtoolslist.com/float) - Cash flow forecasting software for managing budgets and financials.
-  - [HubSpot Forecasting Tool](https://www.hubspot.com/sales-forecast-template) - [Review](https://marketingtoolslist.com/hubspot) - Free tool to help predict future sales and revenue.
-
+  
 ### Competitor and Market Analysis
 
   - [Statista](https://www.statista.com) - [Review](https://marketingtoolslist.com/statista) - Online statistics, market research, and business intelligence portal.
@@ -62,11 +61,9 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 ### Marketing Mix Modeling
 
   - [MixMod](http://mixmod.org) - [Review](https://marketingtoolslist.com/mixmod) - Statistical software for clustering, classification, and discriminant analysis.
-  - [SAS Marketing Mix](https://www.sas.com/en_us/solutions/customer-intelligence/marketing-mix-modeling.html) - [Review](https://marketingtoolslist.com/sas-predictive-analytics) - Analyzes historical data to evaluate marketing impact and ROI.
   - [Nielsen Marketing Cloud](https://www.nielsen.com/us/en/solutions/marketing-effectiveness/marketing-mix-modeling/) - Review - Tools for optimizing marketing strategies using comprehensive data analytics.
   - [BrandMaker](https://www.brandmaker.com) - [Review](https://marketingtoolslist.com/brand-maker) - Marketing resource management solution that helps optimize the marketing mix.
-  - [MarketShare](https://www.marketshare.com) - Review - Advanced analytics for evaluating marketing impact and making strategic decisions.
-
+  
 ## SEO (Search Engine Optimization)
 
 ### Keyword Research
@@ -95,6 +92,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - [Review](https://marketingtoolslist.com/google-pagespeed-insights) - Tool that analyzes a page’s content and provides suggestions for speeding up your site.
   - [GTmetrix](https://gtmetrix.com) - [Review](https://marketingtoolslist.com/gtmetrix) - Performance analysis tool that provides insights into how well your site loads and helps identify where improvements can be made.
   - [Sitebulb](https://sitebulb.com) - [Review](https://marketingtoolslist.com/sitebulb) - Desktop-based website audit tool for technical SEO with visual representations.
+  - [Swavent Guides](https://swavent.com/en/guides) - Free guides on Shopify development, ecommerce and SEO.
 
 ### Link Building
 
@@ -125,7 +123,6 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 ### SEO Analytics
 
   - [Google Search Console](https://search.google.com/search-console) - [Review](https://marketingtoolslist.com/google-search-console) - Free tool by Google that helps monitor and maintain your site's presence in Google Search results.
-  - [SEMrush](https://www.semrush.com/analytics/) - [Review](https://marketingtoolslist.com/semrush) - Comprehensive SEO analytics tool for tracking performance and analyzing competitors.
   - [Ahrefs](https://ahrefs.com/analytics) - [Review](https://marketingtoolslist.com/ahrefs) - Analytics toolset that provides insights into website performance, traffic, and keyword rankings.
   - [SpyFu](https://www.spyfu.com) - [Review](https://marketingtoolslist.com/spyfu) - SEO and PPC competitor research tool for discovering every keyword a competitor has bought on Google Ads.
   - [SimilarWeb](https://www.similarweb.com) - [Review](https://marketingtoolslist.com/similarweb) - Web analytics platform providing insights on website traffic, ranking, and more.
@@ -214,7 +211,6 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [HubSpot](https://www.hubspot.com) - Review - All-in-one CRM platform with robust email marketing and automation tools.
   - [Klaviyo](https://www.klaviyo.com) - Review - Email and SMS marketing automation platform tailored for eCommerce businesses.
   - [SendinBlue](https://www.sendinblue.com) - Review - Email marketing and automation software that includes SMS marketing and chat features.
-  - [Touchlead](https://touchlead.app) - Review - Marketing software with workflow automation, supporting email campaigns, social media scheduling and more.
   - [Autopilot](https://autopilothq.com) - Review - Visual marketing automation software for creating personalized customer journeys.
   - [Drip](https://www.drip.com) - Review - ECRM platform designed for building personalized email campaigns to engage customers.
 
@@ -289,7 +285,6 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [AdRoll](https://www.adroll.com) - Review - Retargeting platform that helps marketers reach customers who have previously interacted with their brand across multiple devices.
   - [Criteo](https://www.criteo.com) - Review - Global retargeting and display advertising platform that personalizes ads for each user.
   - [Facebook Ads Retargeting](https://www.facebook.com/business/learn/facebook-ads-retargeting) - Review - Retargeting ads on Facebook and Instagram, targeting users who have engaged with your content.
-  - [Perfect Audience](https://www.perfectaudience.com) - Review - Retargeting platform for managing display, social, and mobile retargeting campaigns.
   - [Google Ads Remarketing](https://ads.google.com/home/campaigns/remarketing/) - Review - Remarketing tool that helps advertisers re-engage previous visitors with targeted ads across the web.
 
 
@@ -429,7 +424,6 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 ## Blogs
 
 - [The Marketing Blog](https://blog.marketingtoolslist.com) - A blog on Marketing Tools reviews
-- [Awesome Marketing Blog](https://awesome-marketing.com) - Find anything about marketing
 - **HubSpot Blog** - Offers information on inbound marketing, sales, and customer service strategies. [Visit Blog](https://blog.hubspot.com/)
 - **Neil Patel's Blog** - Covers a range of digital marketing topics with actionable tips and guides. [Visit Blog](https://neilpatel.com/blog/)
 
