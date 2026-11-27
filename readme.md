@@ -103,6 +103,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [Pitchbox](https://pitchbox.com) - [Review](https://marketingtoolslist.com/pitchbox) - Outreach and link building software that automates the process of connecting with influencers.
   - [Majestic](https://majestic.com) - [Review](https://marketingtoolslist.com/%20majestic-seo) - Backlink analysis tool that provides comprehensive link intelligence data.
   - [Moz Link Explorer](https://moz.com/link-explorer) - [Review](https://marketingtoolslist.com/moz) - Tool for analyzing backlinks, finding link-building opportunities, and tracking your site's link profile.
+  - [SaaSCity](https://saascity.io/free-dofollow-directories) - Free searchable atlas of 1,600+ startup & SaaS directories filtered by Domain Rating, link type (dofollow/nofollow), and pricing, plus a free pre-launch SEO audit and keyless MCP server.
 
 ### Local SEO
 
