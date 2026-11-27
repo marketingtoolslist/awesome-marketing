@@ -202,6 +202,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 ### Email Campaigns
 
   - [Mailchimp](https://mailchimp.com) - Review - Marketing automation platform and email marketing service that helps you manage and communicate with your clients and customers.
+  - [Poptin MCP](https://developers.poptin.com/docs/mcp) - Connects AI assistants to Poptin to draft email campaigns for review, build segments, and analyze popups and forms.
   - [ConvertKit](https://convertkit.com) - Review - Email marketing software designed for creators, bloggers, and online businesses with powerful automation features.
   - [ActiveCampaign](https://www.activecampaign.com) - Review - Customer experience automation platform that helps businesses grow by automating various marketing processes.
   - [GetResponse](https://www.getresponse.com) - Review - Email marketing software with powerful automation features, landing pages, and webinars.
