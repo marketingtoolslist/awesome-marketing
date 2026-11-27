@@ -150,6 +150,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
   - [AdEspresso](https://adespresso.com) - Review - Tool to create, manage, and optimize Facebook and Instagram ad campaigns.
   - [Canva](https://www.canva.com) - Review - Design tool for creating visually engaging social media graphics and ad creatives.
   - [AdRoll](https://www.adroll.com) - Review - Platform for retargeting and prospecting across web, social, and email channels.
+- [AdGrowth Lab](https://adgrowth-lab.github.io/) - Review - Free TikTok Ads credit calculator and open-source diagnostic toolkit for 0-impression campaigns, learning-phase feasibility, Pangle traffic audits, Policy 5.1 copy checks, VCC BIN evaluation and account appeals.
 
 ### Influencer Marketing
 
